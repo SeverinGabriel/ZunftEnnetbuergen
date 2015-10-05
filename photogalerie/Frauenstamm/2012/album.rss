@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fotos 2012</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Frauenstamm-03.02.2012/album.rss" />   	
+    	<jalbum:link rel="sub" href="Frauenstamm-10.04.2012/album.rss" />   	
+    	<jalbum:link rel="sub" href="Frauenstamm-10.09.2012/album.rss" />   	
+        
+    </channel>
+</rss>

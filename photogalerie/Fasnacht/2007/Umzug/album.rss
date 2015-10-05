@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Umzug</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="davor_danach/album.rss" />   	
+    	<jalbum:link rel="sub" href="Halle/album.rss" />   	
+    	<jalbum:link rel="sub" href="Nr01bis20/album.rss" />   	
+    	<jalbum:link rel="sub" href="Nr21bis42/album.rss" />   	
+        
+    </channel>
+</rss>

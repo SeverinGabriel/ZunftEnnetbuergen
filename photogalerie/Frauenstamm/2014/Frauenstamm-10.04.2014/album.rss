@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Frauenstamm-10.04.2014</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>P4100019</title>
+            <link>slides/P4100019.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P4100019.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/P4100019.JPG" width="356" height="475"/>
+            <guid isPermaLink="false">slides/P4100019.JPG</guid>
+        </item>
+        <item>
+            <title>P4100020</title>
+            <link>slides/P4100020.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P4100020.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/P4100020.JPG" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P4100020.JPG</guid>
+        </item>
+        <item>
+            <title>P4100021</title>
+            <link>slides/P4100021.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P4100021.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/P4100021.JPG" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P4100021.JPG</guid>
+        </item>
+        <item>
+            <title>P4100011</title>
+            <link>slides/P4100011.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P4100011.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/P4100011.JPG" width="356" height="475"/>
+            <guid isPermaLink="false">slides/P4100011.JPG</guid>
+        </item>
+    </channel>
+</rss>

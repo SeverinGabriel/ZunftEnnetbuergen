@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Probe mit Tambouren</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>t01</title>
+            <link>slides/t01.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t01.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t01.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t01.jpg</guid>
+        </item>
+        <item>
+            <title>t02</title>
+            <link>slides/t02.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t02.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t02.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t02.jpg</guid>
+        </item>
+        <item>
+            <title>t03</title>
+            <link>slides/t03.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t03.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t03.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t03.jpg</guid>
+        </item>
+        <item>
+            <title>t04</title>
+            <link>slides/t04.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t04.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t04.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t04.jpg</guid>
+        </item>
+        <item>
+            <title>t05</title>
+            <link>slides/t05.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t05.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t05.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t05.jpg</guid>
+        </item>
+        <item>
+            <title>t06</title>
+            <link>slides/t06.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/t06.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/t06.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/t06.jpg</guid>
+        </item>
+    </channel>
+</rss>

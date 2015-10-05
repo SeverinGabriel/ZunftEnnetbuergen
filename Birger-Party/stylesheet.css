@@ -1,0 +1,47 @@
+*
+{
+	font-family: Verdana, "Times New Roman";
+	text-align:center;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#rechts 
+{
+	margin-left: 500px;
+}
+
+#links
+{
+float: left;
+	width:500px;
+}
+
+#Muiri
+{
+position:absolute;
+	margin-top: 360px;
+	margin-left:0px;
+	width: 220px;
+}
+
+#Styroler
+{
+	position:absolute;
+	width:250px;
+	
+}
+#HappySeppi
+{position:absolute;
+	
+	margin-left:310px;
+	margin-top: 150px;
+	
+	
+}
+#Geissholz
+{
+	position:absolute;
+	margin-top: 480px;
+	margin-left:250px;
+}

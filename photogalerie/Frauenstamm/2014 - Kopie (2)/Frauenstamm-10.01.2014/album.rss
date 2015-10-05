@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Frauenstamm-10.01.2014</title>
+   	<link>../../..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>DSCN1232</title>
+            <link>slides/DSCN1232.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:06:03 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN1232.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCN1232.JPG" width="633" height="475"/>
+            <guid isPermaLink="false">slides/DSCN1232.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN1234</title>
+            <link>slides/DSCN1234.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:06:03 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN1234.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/DSCN1234.JPG" width="356" height="475"/>
+            <guid isPermaLink="false">slides/DSCN1234.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN1235</title>
+            <link>slides/DSCN1235.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:06:03 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN1235.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/DSCN1235.JPG" width="356" height="475"/>
+            <guid isPermaLink="false">slides/DSCN1235.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN1237</title>
+            <link>slides/DSCN1237.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:06:03 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN1237.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/DSCN1237.JPG" width="633" height="475"/>
+            <guid isPermaLink="false">slides/DSCN1237.JPG</guid>
+        </item>
+    </channel>
+</rss>

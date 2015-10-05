@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Samichlais-Einzug Buochs</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>PB280007</title>
+            <link>slides/PB280007.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PB280007.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/PB280007.JPG" width="450" height="600"/>
+            <jalbum:exif originalDate="28.11.14 19:54" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u810/S810"/>
+            <guid isPermaLink="false">slides/PB280007.JPG</guid>
+        </item>
+        <item>
+            <title>PB280013</title>
+            <link>slides/PB280013.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PB280013.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/PB280013.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="28.11.14 21:38" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u810/S810"/>
+            <guid isPermaLink="false">slides/PB280013.JPG</guid>
+        </item>
+        <item>
+            <title>PB280014</title>
+            <link>slides/PB280014.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PB280014.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/PB280014.JPG" width="450" height="600"/>
+            <jalbum:exif originalDate="28.11.14 21:39" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u810/S810"/>
+            <guid isPermaLink="false">slides/PB280014.JPG</guid>
+        </item>
+        <item>
+            <title>PB280016</title>
+            <link>slides/PB280016.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PB280016.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/PB280016.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="28.11.14 21:39" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u810/S810"/>
+            <guid isPermaLink="false">slides/PB280016.JPG</guid>
+        </item>
+        <item>
+            <title>PB280006</title>
+            <link>slides/PB280006.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PB280006.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/PB280006.JPG" width="800" height="600"/>
+            <jalbum:exif originalDate="28.11.14 19:54" cameraMake="OLYMPUS IMAGING CORP." cameraModel="u810/S810"/>
+            <guid isPermaLink="false">slides/PB280006.JPG</guid>
+        </item>
+    </channel>
+</rss>

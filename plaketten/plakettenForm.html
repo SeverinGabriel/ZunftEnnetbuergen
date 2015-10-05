@@ -1,0 +1,330 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//DE">
+<html>
+<head>
+
+<title>Plaketten bestellen</title>
+		
+
+<STYLE type="text/css">
+<!--
+input
+{
+	width:250px;
+}
+.button
+{
+	width:150px;
+}
+#inputshort
+{
+	width: 47px;
+}
+#inputlong
+{
+	width: 197px;
+}
+
+BODY,HTML {
+scrollbar-face-color:#FFFFFF;
+scrollbar-highlight-color:#FFFFFF;
+scrollbar-3dlight-color:#000000;
+scrollbar-darkshadow-color:#FFFFFF;
+scrollbar-shadow-color:#000000;
+scrollbar-arrow-color:#000000;
+scrollbar-track-color:#FFFFFF;
+}
+	A:Hover { color:#000000; text-decoration:none; text-transform: uppercase; font-size: 9pt; font-weight:bold; background-color:#FFF864; }
+	A 	{ color:#000000; text-decoration:none; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+span.apple-converted-space
+	{}
+-->
+</STYLE>
+
+<script type="text/javascript" src="./jquery.js"></script>
+<SCRIPT language=JavaScript> 
+<!--  
+     function chkFormular()  {
+     
+   if(document.Formular.Name.value == "")    {
+     alert("Bitte Ihren Namen eingeben!");    
+     document.Formular.Name.focus();
+     return false;    
+     }  
+   if(document.Formular.Vorname.value == "")    {
+     alert("Bitte Ihren Vornamen eingeben!");    
+     document.Formular.Vorname.focus();
+     return false;    
+     }
+   if(document.Formular.Adresse.value == "")    {
+     alert("Bitte Ihre Adresse eingeben!");
+     document.Formular.Adresse.focus();    
+     return false;    
+     }
+   if(document.Formular.Postleitzahl.value == "")    {
+     alert("Bitte Ihre Postleitzahl eingeben!");    
+     document.Formular.Postleitzahl.focus();
+     return false;    
+     }  
+        var chkZ = 1;
+   for(i=0;i<document.Formular.Postleitzahl.value.length;++i)
+     if(document.Formular.Postleitzahl.value.charAt(i) < "0"
+     || document.Formular.Postleitzahl.value.charAt(i) > "9")       chkZ = -1;
+     if(chkZ == -1)   {
+     alert("Postleitzahl Angabe ist keine Zahl oder fehlerhaft!");
+     document.Formular.Postleitzahl.focus();    
+     return false;  
+     }  
+ 
+   if(document.Formular.Ort.value == "")    {
+     alert("Bitte Ihr Wohnort eingeben!");    
+     document.Formular.Ort.focus();
+     return false;    
+     }
+     
+
+   if(document.Formular.Email.value == "")    {
+     alert("Bitte geben Sie Ihre E-Mail Adresse ein!");    
+     document.Formular.Email.focus();
+     return false;    
+     }     
+   if(document.Formular.Email.value.indexOf('@') == -1)
+   {alert("Dies ist keine Email-Adresse!");
+    document.Formular.Email.focus();
+    return false;}
+	if($(".gold option:selected").val() == 0 && $(".silber option:selected").val() == 0)
+   {alert("Sie müssen mindestens eine Plakette bestellen");
+    return false;}
+	
+	var preis = $(".gold option:selected").text() * 37 + $(".silber option:selected").text() * 9;
+	var email = $("#email").val();
+	
+	$("#hiddenPreis").attr('value', preis);
+	$("#mailfrom").attr('value', email)
+	
+}  
+//-->
+$( document ).ready(function() {
+
+	$(".gold" ).change(function() {
+		var preis = $(".gold option:selected").text() * 37 + $(".silber option:selected").text() * 9;
+		$("#total").text('Total: ' + preis + ' CHF');
+	});
+	$(".silber" ).change(function() {
+		var preis = $(".gold option:selected").text() * 37 + $(".silber option:selected").text() * 9;
+		$("#total").text('Total: ' + preis + ' CHF');
+	});
+});
+        </SCRIPT>
+
+</head>
+	<body bgcolor="#FFFFFF" topmargin="10" leftmargin="30" rightmargin="0" bottommargin="0">
+	
+
+
+
+					<font face="Verdana">
+					
+					<form name="Formular" action="http://www.zunftennetbuergen.ch/mailerPlaketten.asp" method="post" language="JavaScript" onsubmit="return chkFormular()" >
+
+					<input type="hidden" name="_Referer" value="www.zunftennetbuergen.ch;zunftennetbuergen.ch">
+					<input type="hidden" name="_Host" value="localhost">
+					<input type="hidden" id="mailfrom" name="_MailFrom" value="">
+					<input type="hidden" name="_MailFromName" value="Zunft Website">
+					<input type="hidden" name="_MailSubject" value="Bestellung Zunft">
+					<input type="hidden" name="_EMail" value="feldkreuz@gmail.com;sevi.gabriel93@gmail.com">
+					<input type="hidden" name="_DankePage" value="http://www.zunftennetbuergen.ch/plaketten/Bestaetigung.html">
+					<input type="hidden" id="hiddenPreis" name="_Preis" value="">
+					<input type="hidden" name="_FehlerPage" value="http://www.zunftennetbuergen.ch/fehler.html">
+					<div align="center">
+              		<center>
+			<div align="left">
+			<table border="0" cellpadding="2" cellspacing="1" width="546" bordercolor="#111111">
+			<tr>
+		<td valign="top" style="border-bottom: 1px solid #666666" height="22">
+		<font size="5" face="Arial">Bestellformular Plaketten:</font></td>
+			</tr>
+			<tr>
+		<td valign="top">
+		&nbsp;</td>
+			</tr>
+			<tr>
+		<td valign="top" height="27">
+		<font size="2">Wir bieten dieses Jahr einen Onlineverkauf der Plaketten an. Nur solange Vorrat</font></td>
+			</tr>
+			<tr>
+				<td align="center" width="540" height="45" valign="top"> 
+					<p align="left">
+	
+
+
+
+					<font face="Verdana">
+					
+      <b>
+    <FONT 
+      face="Verdana" size=1>(Plaketten werden nur nach Vorauszahlung geliefert)</FONT></b><BR>
+    <font size="1" face="Verdana">Die mit </font>
+    <font size="2" face="Verdana" color="#CC0000"> <b>*</b></font><font size="1" face="Verdana"> bezeichneten Felder sollten ausgefüllt werden. Besten Dank.</font></td>
+			</tr>
+			<tr>
+				<td align="center" width="540" height="2"> 
+                    <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" width="536" style="border-right-width: 0px">
+						<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+						<tr height="10">
+							
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">Anrede:</font></td>
+							<td width="18"></td>
+							<td width="6">&nbsp;</td>
+							<td style="border-bottom-style: none; border-bottom-width: medium">
+                            <input type="text" name="Anrede" size="21"></td>
+						    </font>
+						</tr>
+					<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Name:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left" valign="bottom">
+    &nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Name" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Vorname:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    &nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Vorname" size="20"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Adresse:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    &nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Adresse" size="27"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            PLZ/Ort:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    &nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" id="inputshort" name="Postleitzahl" size="6">
+							<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><input 
+                               id="inputlong" type="text" name="Ort" size="22"></font></td>
+						</tr>
+						<tr>
+							<td align="right" width="80" height="24">
+                            <font size="2">
+                            Telefon:</font></td>
+							<td width="18" height="24" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" height="24" style="border-right-style: none; border-right-width: medium" align="left">
+    &nbsp;</td>
+							<td height="24" style="border-style: none; border-width: medium">
+                            <input type="text" name="Telefon" size="20"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            E-Mail:</font></td>
+							<td width="18" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" align="left">
+    &nbsp;</td>
+							<td style="border-top-style: none; border-top-width: medium">
+                            <input type="text" id="email" name="Email" size="30"></td>
+						</tr>
+						<tr height="20"><tr/>
+						<tr>
+						<br/>
+						<table>
+							<tr>
+								<td width="200"><img border="0" src="2015/PlaketteGold2015.gif" width="150"></td>
+								<td width="200"><img border="0" src="2015/Plakette2015.gif" width="120"></td>
+							</tr>
+							<tr><p style="font-style:bold">Für den Versand werden 2 CHF pro Stück berechnet</p></tr>
+							<tr>
+								<td>Gold-Plaketten:  
+								<select class="gold" name="Goldplaketten">
+									<option value="0">0</option>
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="5">5</option>
+								</select>
+								</td>
+								<td>Silber-Plaketten: 
+								<select class="silber" name="Silberplaketten">
+									<option value="0">0</option>
+									<option value="1">1</option>
+									<option value="2">2</option>
+									<option value="3">3</option>
+									<option value="4">4</option>
+									<option value="5">5</option>
+								</select>
+								</td>
+							</tr>
+							<tr><td>Preis/Stück: 35 CHF</td><td>Preis/Stück: 7 CHF</td></tr>
+							
+							<tr height="20"></tr>
+							<tr><td></td><td id="total">Total: </td></tr>
+						</table>
+						</tr>
+						<tr height="20">
+							<td height="20" align="center" valign="middle" width="536" colspan="4">
+					&nbsp;</td>
+						</tr>
+						
+						
+						<tr>
+							<td colspan="4" align="center"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+                            <div align="right">
+                            <table border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td width="99%" align="center" valign="bottom"> 
+					&nbsp;<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><div align="left">
+                                          <table border="0" cellpadding="0" cellspacing="0" width="428" id="table1">
+						<tr>
+										<td width="190" align="center">
+                                        <p align="right"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><input class="button" type="submit" value="Bestellung abschicken" name="submitButtonName"></font></td>
+										<td width="56%"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+                                        <input class="button" type="reset" value="Eingabe zurücksetzen"></font></td>
+									</tr>
+					</table>
+                                        </div>
+                                        </font></td>
+									</tr>
+									<tr>
+										<td align="center"> 
+                                        &nbsp;</td>
+									</tr>
+									</table></div>
+							</font></td>
+						</tr>
+					</table></div>
+					</font>
+					</td>
+			</tr>
+		</table>
+		      </div>
+		      </center>
+        </div>
+		</form>
+	</body>
+
+</html>

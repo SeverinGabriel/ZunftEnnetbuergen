@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kehrsiten</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>DSC04708</title>
+            <link>slides/DSC04708.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04708.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSC04708.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="26.01.13 23:03" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04708.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04713</title>
+            <link>slides/DSC04713.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04713.JPG" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/DSC04713.JPG" width="700" height="475"/>
+            <jalbum:exif originalDate="26.01.13 23:13" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04713.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04715</title>
+            <link>slides/DSC04715.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04715.JPG" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/DSC04715.JPG" width="700" height="475"/>
+            <jalbum:exif originalDate="26.01.13 23:25" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04715.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04720</title>
+            <link>slides/DSC04720.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04720.JPG" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/DSC04720.JPG" width="700" height="475"/>
+            <jalbum:exif originalDate="26.01.13 23:39" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04720.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04723</title>
+            <link>slides/DSC04723.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04723.JPG" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/DSC04723.JPG" width="700" height="475"/>
+            <jalbum:exif originalDate="27.01.13 00:01" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04723.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04726</title>
+            <link>slides/DSC04726.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04726.JPG" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/DSC04726.JPG" width="700" height="475"/>
+            <jalbum:exif originalDate="27.01.13 00:52" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04726.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04748</title>
+            <link>slides/DSC04748.html#</link>
+            <pubDate>Tue, 29 Jan 2013 20:52:39 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04748.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSC04748.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="27.01.13 01:40" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04748.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Guuggeueberfall</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>DSC04759</title>
+            <link>slides/DSC04759.html#</link>
+            <pubDate>Fri, 08 Feb 2013 18:00:58 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC04759.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/DSC04759.JPG" width="621" height="466"/>
+            <jalbum:exif originalDate="02.02.13 21:30" cameraMake="SONY" cameraModel="DSC-W17"/>
+            <guid isPermaLink="false">slides/DSC04759.JPG</guid>
+        </item>
+    </channel>
+</rss>

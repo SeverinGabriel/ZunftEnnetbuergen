@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Besuch Altersheim</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>p_0001</title>
+            <link>slides/p_0001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0001.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0001.jpg</guid>
+        </item>
+        <item>
+            <title>p_0002</title>
+            <link>slides/p_0002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0002.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0002.jpg</guid>
+        </item>
+        <item>
+            <title>p_0003</title>
+            <link>slides/p_0003.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0003.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0003.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0003.jpg</guid>
+        </item>
+        <item>
+            <title>p_0004</title>
+            <link>slides/p_0004.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0004.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0004.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0004.jpg</guid>
+        </item>
+        <item>
+            <title>p_0005</title>
+            <link>slides/p_0005.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0005.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0005.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0005.jpg</guid>
+        </item>
+        <item>
+            <title>p_0006</title>
+            <link>slides/p_0006.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0006.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0006.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0006.jpg</guid>
+        </item>
+        <item>
+            <title>p_0007</title>
+            <link>slides/p_0007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:59:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p_0007.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/p_0007.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/p_0007.jpg</guid>
+        </item>
+    </channel>
+</rss>

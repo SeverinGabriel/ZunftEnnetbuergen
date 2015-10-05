@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fasnacht 2015</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="11.11.2014/album.rss" />   	
+    	<jalbum:link rel="sub" href="GV/album.rss" />   	
+    	<jalbum:link rel="sub" href="Samichlais-Einzug Buochs/album.rss" />   	
+    	<jalbum:link rel="sub" href="Chlauseinzug Ennetbürgen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Tannenstellen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Inthronisation/album.rss" />   	
+    	<jalbum:link rel="sub" href="SchmuDo/album.rss" />   	
+    	<jalbum:link rel="sub" href="Umzug Ennetbuergen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Birgä-Party/album.rss" />   	
+        
+    </channel>
+</rss>

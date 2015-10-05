@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Probe Birgerfaeger</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>BF01</title>
+            <link>slides/BF01.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF01.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF01.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF01.jpg</guid>
+        </item>
+        <item>
+            <title>BF02</title>
+            <link>slides/BF02.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF02.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF02.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF02.jpg</guid>
+        </item>
+        <item>
+            <title>BF03</title>
+            <link>slides/BF03.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF03.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF03.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF03.jpg</guid>
+        </item>
+        <item>
+            <title>BF04</title>
+            <link>slides/BF04.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF04.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF04.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF04.jpg</guid>
+        </item>
+        <item>
+            <title>BF05</title>
+            <link>slides/BF05.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF05.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF05.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF05.jpg</guid>
+        </item>
+        <item>
+            <title>BF06</title>
+            <link>slides/BF06.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF06.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/BF06.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/BF06.jpg</guid>
+        </item>
+        <item>
+            <title>BF07</title>
+            <link>slides/BF07.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BF07.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BF07.jpg" width="597" height="448"/>
+            <guid isPermaLink="false">slides/BF07.jpg</guid>
+        </item>
+    </channel>
+</rss>

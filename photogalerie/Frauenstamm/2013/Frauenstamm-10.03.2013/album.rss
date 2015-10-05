@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Frauenstamm-10.03.2013</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_0345</title>
+            <link>slides/IMG_0345.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0345.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0345.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.03.13 19:41" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0345.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0347</title>
+            <link>slides/IMG_0347.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0347.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0347.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.03.13 19:41" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0347.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0351</title>
+            <link>slides/IMG_0351.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0351.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_0351.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:10" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0351.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0354</title>
+            <link>slides/IMG_0354.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0354.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_0354.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:11" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0354.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0357</title>
+            <link>slides/IMG_0357.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0357.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0357.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:11" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0357.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0359</title>
+            <link>slides/IMG_0359.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0359.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0359.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:11" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0359.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0361</title>
+            <link>slides/IMG_0361.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0361.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0361.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:11" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0361.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0364</title>
+            <link>slides/IMG_0364.html#</link>
+            <pubDate>Mon, 11 Mar 2013 18:43:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0364.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_0364.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.03.13 20:12" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/IMG_0364.JPG</guid>
+        </item>
+    </channel>
+</rss>

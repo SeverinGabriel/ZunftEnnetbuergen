@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Frauenstamm-10.09.2014</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_0863</title>
+            <link>slides/IMG_0863.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0863.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/IMG_0863.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0863.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0864</title>
+            <link>slides/IMG_0864.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0864.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0864.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0864.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0865</title>
+            <link>slides/IMG_0865.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0865.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0865.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0865.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0867</title>
+            <link>slides/IMG_0867.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0867.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0867.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0867.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0858</title>
+            <link>slides/IMG_0858.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0858.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/IMG_0858.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0858.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0859</title>
+            <link>slides/IMG_0859.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0859.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/IMG_0859.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0859.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0860</title>
+            <link>slides/IMG_0860.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0860.JPG" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0860.JPG" width="450" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0860.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0861</title>
+            <link>slides/IMG_0861.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0861.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/IMG_0861.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0861.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0862</title>
+            <link>slides/IMG_0862.html</link>
+            <pubDate>Fri, 14 Nov 2014 21:48:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0862.JPG" width="120" height="90"/>
+            <media:content type="image/jpeg" url="slides/IMG_0862.JPG" width="800" height="600"/>
+            <guid isPermaLink="false">slides/IMG_0862.JPG</guid>
+        </item>
+    </channel>
+</rss>

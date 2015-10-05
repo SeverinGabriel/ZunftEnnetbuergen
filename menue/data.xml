@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<items xmlVersion="7">
+  <body color="#E83224" mtop="10" mleft="4" mright="30"/>
+  <bgColor bgOver="#FFC006" bgOut="#BC0000" bgClicked="#FFD873"/>
+  <txtColor txtOver="#000000" txtOut="#FFFDCC" txtClicked="#9C0001"/>
+  <picture on="pfeil.gif" off="1.gif" showIt="1" fix="1"/>
+  <graphics topGraphic="" bottomGraphic="" topGSpace="1" bottomGSpace="1"/>
+  <border art="um" color="#000000"/>
+  <frame num="2"/>
+  <menuart val="0"/>
+  
+<item id="0" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Aktuell</name>
+    <link>../aktuell/aktuell.html</link> 
+   </item>
+   <!--<item id="1" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Ü25</name>
+    <link>../Ue25/ue25.html</link>
+   </item>
+   <item id="9" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+		<name>Fasnacht am Birgä</name>
+    	<link>../Birger-Party/birger_party.html</link>
+	</item>-->
+   <item id="2" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Agenda</name>
+    <link>../agenda/agenda.html</link>
+   </item>
+   
+
+  
+    
+   <item id="3" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Zunftmeister</name>
+    <link>../zunftmeister/Zunftmeister15-16.html</link>
+    <subitem id="3.1" upid="3" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Proklamation</name>
+    <link>../proklamation/adolf_1/proklamation.html</link>
+    </subitem>  
+    <subitem id="3.2" upid="3" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Altzunftmeister</name>
+    <link>../zunftmeister_alt/altzunftmeister.html</link>    
+    </subitem>
+   </item> 
+  
+   
+    <item id="4"  bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Zunftrat</name>
+    <link>../zunftrat/zunftrat.html</link>
+    </item>
+    
+     <item id="47"  bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Zunftzeitung</name>
+    <link>../zunftzeitung/Zunftzeitung.html</link>
+    </item>   
+    
+  
+    <item id="5"  bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Fotos Fasnacht</name>
+    <link>../photogalerie/fotogalerie.html</link>
+    </item>
+    
+     <item id="8" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Fotos Frauenstamm</name>
+    <link>../photogalerie/Frauenstamm.html</link>
+    </item>   
+    
+    
+    <item id="6" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Geschichte</name>
+    <link>../geschichte/zunftgeschichte.html</link>
+    </item>
+    
+    
+    <!--<item id="7" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Plaketten</name>
+    <link>../plaketten/plaketten.html</link>
+    </item>-->
+    
+
+    <item id="10" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+     <name>Mitglied werden..</name>
+     <link>../Mitglied/Mitgliedschaft.html</link>
+    </item>
+    
+    
+
+    <item id="20" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+     <name>Zunfthaus</name>
+     <link>../Zunfthaus2013/2013.html</link>
+    <subitem id="20.1" upid="20" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Buchungsübersicht</name>
+    <link>../Zunfthaus/Reservation/Zunfthaus.html</link>    
+    </subitem>
+    </item> 
+                 
+    <item id="12" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+     <name>Links</name>
+     <link>../links/links.html</link>
+    </item>
+    
+  
+    <item id="13" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Kontakt</name>
+    <link>../kontaktformular.html</link>
+   </item>  
+<!--<item id="14" bgcol="" txtcol="" txt="normal" Img="" ImgOver="" ImgClick="" space="0" isMain="0" Frame2="">
+    <name>Plaketten-Onlineverkauf</name>
+    <link>../Plaketten/plakettenForm.html</link>
+   </item> -->   
+   
+  
+</items>

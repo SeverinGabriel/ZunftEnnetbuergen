@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Altersheim Ennetbuergen</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>20130209_120224</title>
+            <link>slides/20130209_120224.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description>User comments</description>
+            <media:description type="html">User comments</media:description>
+            <media:thumbnail url="thumbs/20130209_120224.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/20130209_120224.jpg" width="350" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:02" cameraMake="SAMSUNG" cameraModel="GT-I9100"/>
+            <guid isPermaLink="false">slides/20130209_120224.jpg</guid>
+        </item>
+        <item>
+            <title>20130209_120318</title>
+            <link>slides/20130209_120318.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description>User comments</description>
+            <media:description type="html">User comments</media:description>
+            <media:thumbnail url="thumbs/20130209_120318.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/20130209_120318.jpg" width="621" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:03" cameraMake="SAMSUNG" cameraModel="GT-I9100"/>
+            <guid isPermaLink="false">slides/20130209_120318.jpg</guid>
+        </item>
+        <item>
+            <title>20130209_120429</title>
+            <link>slides/20130209_120429.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description>User comments</description>
+            <media:description type="html">User comments</media:description>
+            <media:thumbnail url="thumbs/20130209_120429.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/20130209_120429.jpg" width="350" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:04" cameraMake="SAMSUNG" cameraModel="GT-I9100"/>
+            <guid isPermaLink="false">slides/20130209_120429.jpg</guid>
+        </item>
+        <item>
+            <title>20130209_120621</title>
+            <link>slides/20130209_120621.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description>User comments</description>
+            <media:description type="html">User comments</media:description>
+            <media:thumbnail url="thumbs/20130209_120621.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/20130209_120621.jpg" width="621" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:06" cameraMake="SAMSUNG" cameraModel="GT-I9100"/>
+            <guid isPermaLink="false">slides/20130209_120621.jpg</guid>
+        </item>
+        <item>
+            <title>DSCN0179</title>
+            <link>slides/DSCN0179.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN0179.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/DSCN0179.JPG" width="621" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:11" cameraMake="NIKON" cameraModel="COOLPIX AW100  "/>
+            <guid isPermaLink="false">slides/DSCN0179.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN0186</title>
+            <link>slides/DSCN0186.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN0186.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/DSCN0186.JPG" width="621" height="466"/>
+            <jalbum:exif originalDate="09.02.13 12:15" cameraMake="NIKON" cameraModel="COOLPIX AW100  "/>
+            <guid isPermaLink="false">slides/DSCN0186.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN0198</title>
+            <link>slides/DSCN0198.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN0198.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSCN0198.JPG" width="349" height="466"/>
+            <jalbum:exif originalDate="09.02.13 13:34" cameraMake="NIKON" cameraModel="COOLPIX AW100  "/>
+            <guid isPermaLink="false">slides/DSCN0198.JPG</guid>
+        </item>
+        <item>
+            <title>DSCN0202</title>
+            <link>slides/DSCN0202.html#</link>
+            <pubDate>Sun, 10 Feb 2013 16:29:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSCN0202.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSCN0202.JPG" width="349" height="466"/>
+            <jalbum:exif originalDate="09.02.13 13:39" cameraMake="NIKON" cameraModel="COOLPIX AW100  "/>
+            <guid isPermaLink="false">slides/DSCN0202.JPG</guid>
+        </item>
+    </channel>
+</rss>

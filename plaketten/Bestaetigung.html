@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0042)http://www.zunftennetbuergen.ch/danke.html -->
+<HTML>
+
+<HEAD>
+<TITLE>Best&auml;tigung</TITLE>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</HEAD>
+<script type="text/javascript" src="./jquery.js"></script>
+<link href="./css/style.css" type="text/css" rel="stylesheet">
+<SCRIPT language=JavaScript> 
+	function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
+    }
+    return "";
+}
+
+$( document ).ready(function() {
+	var gold = getCookie("gold");
+	var silber = getCookie("silber");
+	if(gold != "0" ){
+		$('#Artikel tr:last').after("<tr><td>Plakette Gold</td><td>" + gold + "</td><td>" + gold * 37 + "</td></tr>");
+	}
+	if(silber != "0" ){
+		$('#Artikel tr:last').after('<tr><td>Plakette Silber</td><td>' + silber + '</td><td>' + silber * 9 + '</td></tr>');
+	}
+	if(silber != "0" || gold != "0" ){
+		$('#Artikel tr:last').after('<tr><td><b>Total Bestellung</b></td><td></td><td>' + (silber * 9 + gold * 37) + '</td></tr>');
+	}
+	
+});
+</SCRIPT>
+<body topmargin="30" leftmargin="70" rightmargin="0" bottommargin="0">
+
+<div align="left">
+<div id="bestaetigung"><h1>Best&auml;tigung Ihrer Bestellung</h1>
+
+<p>Vielen Dank f&uuml;r Ihre Bestellung bei www.zunftennetbuergen.ch</p><br/>
+
+<p>Folgende Artikel werden nach der Bezahlung an sie geliefert:</p>
+<table id="Artikel">
+	<tr><th>Artikel</th><th>Menge</th><th>Preis in CHF</th></tr>
+	
+</table>
+
+</div>
+<div id="zugunsten"><br/><p>Bitte einzahlen an:</p><p>Frau<br>Käthi Gabriel<br>Feldkreuz 1<br>6373 Ennetbürgen<br><br>NKB Stans<br>CH93 0077 9000 1324 5310 0</p></div><br/>
+<div id="drucken">
+
+<form> <input type="button" value="Bestätigung drucken " onClick="javascript:window.print()"> </form>
+</div>
+</div>
+
+
+
+</BODY></HTML>

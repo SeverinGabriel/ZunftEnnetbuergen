@@ -1,0 +1,420 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<script type="text/javascript" src="./jquery-1.11.2.min.js"></script>
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" />
+<link href="./stylesheet - Kopie.css" type="text/css" rel="stylesheet">
+<title>Ü25</title>
+
+<SCRIPT language=JavaScript> 
+<!--  
+     function chkFormular()  {
+     
+   if(document.Formular.Name.value == "")    {
+     alert("Bitte Ihren Namen eingeben!");    
+     document.Formular.Name.focus();
+     return false;    
+     }  
+   if(document.Formular.Vorname.value == "")    {
+     alert("Bitte Ihren Vornamen eingeben!");    
+     document.Formular.Vorname.focus();
+     return false;    
+     }
+   if(document.Formular.Adresse.value == "")    {
+     alert("Bitte Ihre Adresse eingeben!");
+     document.Formular.Adresse.focus();    
+     return false;    
+     }
+   if(document.Formular.Postleitzahl.value == "")    {
+     alert("Bitte Ihre Postleitzahl eingeben!");    
+     document.Formular.Postleitzahl.focus();
+     return false;    
+     }  
+        var chkZ = 1;
+   for(i=0;i<document.Formular.Postleitzahl.value.length;++i)
+     if(document.Formular.Postleitzahl.value.charAt(i) < "0"
+     || document.Formular.Postleitzahl.value.charAt(i) > "9")       chkZ = -1;
+     if(chkZ == -1)   {
+     alert("Postleitzahl Angabe ist keine Zahl oder fehlerhaft!");
+     document.Formular.Postleitzahl.focus();    
+     return false;  
+     }  
+ 
+   if(document.Formular.Ort.value == "")    {
+     alert("Bitte Ihr Wohnort eingeben!");    
+     document.Formular.Ort.focus();
+     return false;    
+     }
+     
+
+   if(document.Formular.Email.value == "")    {
+     alert("Bitte geben Sie Ihre E-Mail Adresse ein!");    
+     document.Formular.Email.focus();
+     return false;    
+     }     
+   if(document.Formular.Email.value.indexOf('@') == -1)
+   {alert("Dies ist keine Email-Adresse!");
+    document.Formular.Email.focus();
+    return false;}
+	if(document.Formular.Anzahl.value == "")    {
+     alert("Bitte Anzahl Personen eingeben!");
+     document.Formular.Anzahl.focus();    
+     return false;    
+     }
+}  
+
+function chkReservation()  {
+     
+   if(document.Reservation.Name.value == "")    {
+     alert("Bitte Ihren Namen eingeben!");    
+     document.Reservation.Name.focus();
+     return false;    
+     }  
+   if(document.Reservation.Vorname.value == "")    {
+     alert("Bitte Ihren Vornamen eingeben!");    
+     document.Reservation.Vorname.focus();
+     return false;    
+     }    
+
+   if(document.Reservation.Email.value == "")    {
+     alert("Bitte geben Sie Ihre E-Mail Adresse ein!");    
+     document.Reservation.Email.focus();
+     return false;    
+     }     
+   if(document.Reservation.Email.value.indexOf('@') == -1)
+   {alert("Dies ist keine Email-Adresse!");
+    document.Reservation.Email.focus();
+    return false;}
+	if(document.Reservation.Anzahl.value == "")    {
+     alert("Bitte Anzahl Personen eingeben!");
+     document.Reservation.Anzahl.focus();    
+     return false;    
+     }
+} 
+//-->
+        </SCRIPT>
+</head>
+
+<body topmargin="15" leftmargin="30" rightmargin="0" bottommargin="0">
+
+<div id="top">
+	<div id="topLeft">
+	<a target="_blank" href="Flyer2015/Ue25_2015.pdf">
+		<img alt="" class="style4" src="Flyer2015/Flyer2015.png" width="300" border="0" /></a>
+	</div>
+	<div id="topRight">
+		<font face="Verdana"><b>Country BBQ <span id="beschraenkt">(Beschränkte Platzzahl)</span></b></font><br>
+		<font size="2" face="Verdana">Reservationen bis 08.Februar 2015</font>
+		<br><br />
+		<font size="2" face="Verdana"><b>Auszug aus dem Essensangebot:</b><br />Cole Slaw-, Caesar-, Mais-, Bohnen-Salat <br /> Tacos, Empanadas, Spare Ribs, Chicken Wings, Fleischspiesse, Baked Potatoes, Maccaroni mit Käse<br /> Cheesecake, Trifle mit Saisonfrüchten</font>
+		
+		<form name="Formular" class="cmxform" action="http://www.zunftennetbuergen.ch/mailer.asp" method="post" language="JavaScript" onsubmit="return chkFormular()" >
+
+					<input type="hidden" name="_Referer" value="www.zunftennetbuergen.ch;zunftennetbuergen.ch">
+					<input type="hidden" name="_Host" value="localhost">
+					<input type="hidden" name="_MailFrom" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_MailFromName" value="Kontakt ueber Website">
+					<input type="hidden" name="_MailSubject" value="BBQ">
+					<input type="hidden" name="_EMail" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_DankePage" value="http://www.zunftennetbuergen.ch/danke1.html">
+					<input type="hidden" name="_FehlerPage" value="http://www.zunftennetbuergen.ch/fehler.html">
+					
+              		
+							<p align="left">
+							<b>Anmeldung für BBQ Ü25:</b> (18:00 Uhr Apéro)<br>
+							Die mit <font size="2" face="Verdana" color="#CC0000"> <b>*</b></font> bezeichneten Felder sollten ausgefüllt werden. Besten Dank.<br>
+
+							<ol>
+								<li>
+									<label for="Name">Name:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Name" size="22">
+								</li>
+								<li>
+									<label for="Vorname">Vorname:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Vorname" size="22">
+								</li>
+								<li>
+									<label for="Adresse">Adresse:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Adresse" size="22">
+								</li>
+								<li>
+									<label for="Postleitzahl">PLZ/Ort:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Postleitzahl" size="2">
+									<input type="text" name="Ort" size="14">
+								</li>
+								<li>
+									<label for="Email">E-Mail:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Email" size="22">
+								</li>
+								<li>
+									<label for="Anzahl">Anzahl:<font color="#CC0000" size="2" face="Verdana"><b>*</b></font></label>
+									<input type="text" name="Anzahl" size="2"> Tickets
+								</li>
+								<li> 
+									<label for="Mitteilungen">Mitteilungen</label>
+									<TEXTAREA rows="2" name="Mitteilungen" cols="33"></TEXTAREA>
+								</li>
+								<li>
+									<input type="submit" value="Anmelden" name="submitButtonName">
+									<input type="reset" value="Eingabe zurücksetzen"></font>
+								</li>
+							</ol>
+                            
+		</form>
+	
+	</div>
+<div id="bottom">
+	<div id="bottomLeft">
+	
+	</div>
+	<div id="bottomRight">
+	
+	</div>
+</div>
+	
+	
+
+
+<div id="Text">
+	<body topmargin="15" leftmargin="30" rightmargin="0" bottommargin="0"><font face="Verdana"><form name="Formular" action="http://www.zunftennetbuergen.ch/mailer.asp" method="post" language="JavaScript" onsubmit="return chkFormular()" >
+
+					<input type="hidden" name="_Referer" value="www.zunftennetbuergen.ch;zunftennetbuergen.ch">
+					<input type="hidden" name="_Host" value="localhost">
+					<input type="hidden" name="_MailFrom" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_MailFromName" value="Kontakt ueber Website">
+					<input type="hidden" name="_MailSubject" value="BBQ">
+					<input type="hidden" name="_EMail" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_DankePage" value="http://www.zunftennetbuergen.ch/danke1.html">
+					<input type="hidden" name="_FehlerPage" value="http://www.zunftennetbuergen.ch/fehler.html">
+					<div align="center">
+              		<center>
+			
+			
+						<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+						
+							<p align="left"><b>
+	<font face="Verdana">Anmeldung für BBQ Ü25:</b> (18:00 Uhr Apéro)<br>
+							</font><font face="Verdana" size="2">
+					
+      						<font size="1" face="Verdana">Die mit </font>
+    <font size="2" face="Verdana" color="#CC0000"> <b>*</b></font><font size="1" face="Verdana"> bezeichneten Felder sollten ausgefüllt werden. Besten Dank.<br>
+&nbsp;</font></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Name:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left" valign="bottom">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Name" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Vorname:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Vorname" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Adresse:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Adresse" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            PLZ/Ort:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Postleitzahl" size="2">
+							<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><input 
+                               type="text" name="Ort" size="14"></font></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            E-Mail:</font></td>
+							<td width="18" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" align="left">
+    						&nbsp;</td>
+							<td style="border-top-style: none; border-top-width: medium">
+                            <input type="text" name="Email" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Anzahl:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+							<input type="text" name="Anzahl" size="2"> 
+							 Tickets</font></td>
+						</tr>
+						
+						<tr height="20">
+							<td height="20" align="center" valign="middle" width="408" colspan="4">
+							&nbsp;</td>
+						</tr>
+						<tr height="20">
+							<td height="20" align="center" valign="top" width="80">
+                            <FONT size="2">Mitteilungen</FONT></td>
+							<td width="24" height="20" colspan="2"></td>
+							<td height="20" width="298">
+							
+                            <font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+                            <TEXTAREA rows="2" name="Mitteilungen" cols="33"></TEXTAREA></font></td>
+						</tr>
+						<tr height="25">
+							<td height="20" align="center" valign="top" width="80">
+                            <FONT size="2"></FONT></td>
+							<td width="24" height="20" colspan="2"></td>
+							<td height="20" width="298"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+										<input type="submit" value="Anmelden" name="submitButtonName">
+                                        <input type="reset" value="Eingabe zurücksetzen"></font>
+                            </td>
+						</tr>
+						
+					</table>
+					</font>
+                    </div>
+                    </td>
+				</tr>
+			</table></div>
+							</font></td>
+						</tr>
+					</table></div>
+						    </font>
+					</td>
+			</tr>
+		</table>
+		      </div>
+		      </center>
+        </div>
+		</form>	
+
+
+	
+	<div id="Dustyboots"><img src="dustyboots.jpg" width="300"></img></div>
+	
+	<div id="Form"><font face="Verdana"><form name="Reservation" action="http://www.zunftennetbuergen.ch/mailer.asp" method="post" language="JavaScript" onsubmit="return chkReservation()" >
+
+					<input type="hidden" name="_Referer" value="www.zunftennetbuergen.ch;zunftennetbuergen.ch">
+					<input type="hidden" name="_Host" value="localhost">
+					<input type="hidden" name="_MailFrom" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_MailFromName" value="Kontakt ueber Website">
+					<input type="hidden" name="_MailSubject" value="Ue25-Party">
+					<input type="hidden" name="_EMail" value="vizepraesident@zunftennetbuergen.ch">
+					<input type="hidden" name="_DankePage" value="http://www.zunftennetbuergen.ch/danke2.html">
+					<input type="hidden" name="_FehlerPage" value="http://www.zunftennetbuergen.ch/fehler.html">
+					<div align="center">
+              		<center>
+			<div align="left">
+			<table border="0" cellpadding="2" cellspacing="1" width="434">
+			<tr>
+				<td align="center" width="428"> 
+                    <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" style="border-right-width: 0px; width: 408px;">
+						<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+						<tr height="30">
+							<td height="18" align="right" valign="top" colspan="4"> 
+							<p align="left" id="Reservation"><b>
+	<font face="Verdana">Reservation Ü25-Party </b>(ab 20:30 Uhr)<br>
+							</font><font face="Verdana" size="2">
+					
+      						<font size="1" face="Verdana">Die mit </font>
+    <font size="2" face="Verdana" color="#CC0000"> <b>*</b></font><font size="1" face="Verdana"> bezeichneten Felder sollten ausgefüllt werden. Besten Dank.<br>
+&nbsp;</font></p></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Name:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left" valign="bottom">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Name" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Vorname:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><input type="text" name="Vorname" size="22"></td>
+						</tr>
+						
+						
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            E-Mail:</font></td>
+							<td width="18" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" align="left">
+    						&nbsp;</td>
+							<td style="border-top-style: none; border-top-width: medium">
+                            <input type="text" name="Email" size="22"></td>
+						</tr>
+						<tr>
+							<td align="right" width="80">
+                            <font size="2">
+                            Anzahl:</font></td>
+							<td width="18" style="border-right-style: none; border-right-width: medium" align="center" valign="bottom">
+    <font color="#CC0000" size="2" face="Verdana"><b>*</b></font></td>
+							<td width="6" style="border-right-style: none; border-right-width: medium" align="left">
+    						&nbsp;</td>
+							<td style="border-right: medium none #D3E1E7; padding-right: 2px; border-left-style:none; border-left-width:medium; border-top-style:none; border-top-width:medium; border-bottom-style:none; border-bottom-width:medium"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+							<input type="text" name="Anzahl" size="2"> 
+							 Tickets</font></td>
+						</tr>
+						
+												
+						<tr height="30">
+							<td height="20" align="center" valign="top" width="80">
+                            <FONT size="2"></FONT></td>
+							<td width="24" height="20" colspan="2"></td>
+							<td height="20" width="298"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2">
+										<input type="submit" value="Anmelden" name="submitButtonName">
+                                        <input type="reset" value="Eingabe zurücksetzen"></font>
+                            </td>
+						</tr>
+					</table><br/><font id="Tickets">Nicht abgeholte Tickets verfallen ab 21:00 Uhr</font><br>
+							</font></div>
+						    </font>
+					</td>
+			</tr>
+		</table>
+		      </div>
+		      </center>
+        </div>
+		</form></font></div>
+
+					
+				
+					
+</body>
+
+</body>
+
+</body>
+
+</html>

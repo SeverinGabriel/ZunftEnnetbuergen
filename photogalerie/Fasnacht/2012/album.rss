@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fotos 2012</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Chriesischlag/album.rss" />   	
+    	<jalbum:link rel="sub" href="Tannenstellen Beggo/album.rss" />   	
+    	<jalbum:link rel="sub" href="Schmudo/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggo Umzug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Ue 28/album.rss" />   	
+    	<jalbum:link rel="sub" href="Besuch Altersheim/album.rss" />   	
+    	<jalbum:link rel="sub" href="Fasnachtssonntag/album.rss" />   	
+    	<jalbum:link rel="sub" href="Uislumpete/album.rss" />   	
+    	<jalbum:link rel="sub" href="Ballenberg/album.rss" />   	
+    	<jalbum:link rel="sub" href="Chriesischteischpeize/album.rss" />   	
+    	<jalbum:link rel="sub" href="Zunftrats und OK-Ausflug/album.rss" />   	
+        
+    </channel>
+</rss>

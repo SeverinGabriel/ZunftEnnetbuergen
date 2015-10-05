@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>8. Nov 2006</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Bau-001</title>
+            <link>slides/Bau-001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:31 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bau-001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bau-001.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bau-001.jpg</guid>
+        </item>
+        <item>
+            <title>Bau-002</title>
+            <link>slides/Bau-002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:31 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bau-002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bau-002.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bau-002.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau-001</title>
+            <link>slides/Umbau-001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:31 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau-001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau-001.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Umbau-001.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau-002</title>
+            <link>slides/Umbau-002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:31 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau-002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau-002.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Umbau-002.jpg</guid>
+        </item>
+    </channel>
+</rss>

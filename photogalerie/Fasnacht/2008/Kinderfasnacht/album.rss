@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kinderfasnacht</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>P2030080</title>
+            <link>slides/P2030080.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030080.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030080.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030080.jpg</guid>
+        </item>
+        <item>
+            <title>P2030083</title>
+            <link>slides/P2030083.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030083.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030083.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030083.jpg</guid>
+        </item>
+        <item>
+            <title>P2030084</title>
+            <link>slides/P2030084.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030084.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2030084.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/P2030084.jpg</guid>
+        </item>
+        <item>
+            <title>P2030086</title>
+            <link>slides/P2030086.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030086.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030086.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030086.jpg</guid>
+        </item>
+        <item>
+            <title>P2030087</title>
+            <link>slides/P2030087.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030087.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030087.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030087.jpg</guid>
+        </item>
+        <item>
+            <title>P2030088</title>
+            <link>slides/P2030088.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030088.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030088.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030088.jpg</guid>
+        </item>
+        <item>
+            <title>P2030089</title>
+            <link>slides/P2030089.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030089.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030089.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/P2030089.jpg</guid>
+        </item>
+        <item>
+            <title>P2030090</title>
+            <link>slides/P2030090.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030090.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030090.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030090.jpg</guid>
+        </item>
+        <item>
+            <title>P2030094</title>
+            <link>slides/P2030094.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030094.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2030094.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/P2030094.jpg</guid>
+        </item>
+        <item>
+            <title>P2030096</title>
+            <link>slides/P2030096.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:35:15 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2030096.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2030096.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/P2030096.jpg</guid>
+        </item>
+    </channel>
+</rss>

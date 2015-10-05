@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>4. Mi 25.01.06</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Umbau 001</title>
+            <link>slides/Umbau%20001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20001.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20001.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 002</title>
+            <link>slides/Umbau%20002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20002.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20002.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 003</title>
+            <link>slides/Umbau%20003.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20003.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20003.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20003.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 004</title>
+            <link>slides/Umbau%20004.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20004.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20004.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20004.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 005</title>
+            <link>slides/Umbau%20005.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20005.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20005.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20005.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 006</title>
+            <link>slides/Umbau%20006.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20006.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20006.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20006.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 007</title>
+            <link>slides/Umbau%20007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20007.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20007.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20007.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 008</title>
+            <link>slides/Umbau%20008.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20008.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20008.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20008.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 010</title>
+            <link>slides/Umbau%20010.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20010.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20010.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20010.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 012</title>
+            <link>slides/Umbau%20012.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20012.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20012.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20012.jpg</guid>
+        </item>
+    </channel>
+</rss>

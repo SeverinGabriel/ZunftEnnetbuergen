@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Beggoball</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>CHJ_2845</title>
+            <link>slides/CHJ_2845.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_2845.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_2845.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="19.01.13 22:38" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_2845.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_2854</title>
+            <link>slides/CHJ_2854.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_2854.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_2854.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="19.01.13 22:44" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_2854.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_2866</title>
+            <link>slides/CHJ_2866.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_2866.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_2866.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="19.01.13 22:46" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_2866.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_3148</title>
+            <link>slides/CHJ_3148.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_3148.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_3148.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="20.01.13 00:20" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_3148.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_3184</title>
+            <link>slides/CHJ_3184.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_3184.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_3184.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="20.01.13 00:30" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_3184.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_3290</title>
+            <link>slides/CHJ_3290.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_3290.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_3290.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="20.01.13 00:56" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_3290.jpg</guid>
+        </item>
+        <item>
+            <title>CHJ_3464</title>
+            <link>slides/CHJ_3464.html#</link>
+            <pubDate>Fri, 08 Feb 2013 17:14:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CHJ_3464.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/CHJ_3464.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="20.01.13 02:13" cameraMake="NIKON CORPORATION" cameraModel="NIKON D4"/>
+            <guid isPermaLink="false">slides/CHJ_3464.jpg</guid>
+        </item>
+    </channel>
+</rss>

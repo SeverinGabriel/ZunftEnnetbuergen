@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Beggoball</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>1</title>
+            <link>slides/1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/1.jpg" width="700" height="465"/>
+            <jalbum:exif originalDate="12.02.11 01:33" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>2</title>
+            <link>slides/2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/2.jpg" width="700" height="465"/>
+            <jalbum:exif originalDate="11.02.11 22:44" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>3</title>
+            <link>slides/3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/3.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/3.jpg" width="700" height="465"/>
+            <jalbum:exif originalDate="11.02.11 23:38" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>4</title>
+            <link>slides/4.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/4.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/4.jpg" width="700" height="465"/>
+            <jalbum:exif originalDate="11.02.11 23:38" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>5</title>
+            <link>slides/5.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/5.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:53" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>slides/6.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/6.jpg" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/6.jpg" width="700" height="465"/>
+            <jalbum:exif originalDate="11.02.11 21:59" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>7</title>
+            <link>slides/7.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/7.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/7.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:52" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>slides/8.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/8.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:52" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>slides/9.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/9.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:53" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>10</title>
+            <link>slides/10.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/10.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:53" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        <item>
+            <title>11</title>
+            <link>slides/11.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/11.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:53" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+        <item>
+            <title>12</title>
+            <link>slides/12.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/12.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:54" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+        <item>
+            <title>13</title>
+            <link>slides/13.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/13.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 22:53" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/13.jpg</guid>
+        </item>
+        <item>
+            <title>14</title>
+            <link>slides/14.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/14.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="12.02.11 23:02" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/14.jpg</guid>
+        </item>
+        <item>
+            <title>15</title>
+            <link>slides/15.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/15.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="13.02.11 01:48" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/15.jpg</guid>
+        </item>
+        <item>
+            <title>16</title>
+            <link>slides/16.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/16.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="13.02.11 01:48" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/16.jpg</guid>
+        </item>
+        <item>
+            <title>17</title>
+            <link>slides/17.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/17.jpg" width="700" height="466"/>
+            <jalbum:exif originalDate="13.02.11 01:48" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3S"/>
+            <guid isPermaLink="false">slides/17.jpg</guid>
+        </item>
+        <item>
+            <title>187</title>
+            <link>slides/187.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/187.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/187.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="12.02.11 18:52" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/187.JPG</guid>
+        </item>
+        <item>
+            <title>188</title>
+            <link>slides/188.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/188.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/188.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 18:52" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/188.JPG</guid>
+        </item>
+        <item>
+            <title>189</title>
+            <link>slides/189.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/189.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/189.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 11:49" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/189.JPG</guid>
+        </item>
+        <item>
+            <title>190</title>
+            <link>slides/190.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/190.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/190.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 18:55" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/190.JPG</guid>
+        </item>
+        <item>
+            <title>192</title>
+            <link>slides/192.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/192.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/192.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 18:57" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/192.JPG</guid>
+        </item>
+        <item>
+            <title>193</title>
+            <link>slides/193.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/193.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/193.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 11:48" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/193.JPG</guid>
+        </item>
+        <item>
+            <title>196</title>
+            <link>slides/196.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/196.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/196.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 12:27" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/196.JPG</guid>
+        </item>
+        <item>
+            <title>197</title>
+            <link>slides/197.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/197.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/197.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 12:28" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/197.JPG</guid>
+        </item>
+        <item>
+            <title>198</title>
+            <link>slides/198.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/198.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/198.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 19:57" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/198.JPG</guid>
+        </item>
+        <item>
+            <title>200</title>
+            <link>slides/200.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/200.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/200.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 20:36" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/200.JPG</guid>
+        </item>
+        <item>
+            <title>202</title>
+            <link>slides/202.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/202.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/202.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 21:50" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/202.JPG</guid>
+        </item>
+        <item>
+            <title>203</title>
+            <link>slides/203.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/203.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/203.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 21:51" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/203.JPG</guid>
+        </item>
+        <item>
+            <title>204</title>
+            <link>slides/204.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/204.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/204.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 21:51" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/204.JPG</guid>
+        </item>
+        <item>
+            <title>205</title>
+            <link>slides/205.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/205.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/205.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 21:52" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/205.JPG</guid>
+        </item>
+        <item>
+            <title>206</title>
+            <link>slides/206.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/206.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/206.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 21:57" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/206.JPG</guid>
+        </item>
+        <item>
+            <title>208</title>
+            <link>slides/208.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="thumbs/208.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/208.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="12.02.11 22:11" cameraMake="SONY" cameraModel="DSC-W1"/>
+            <guid isPermaLink="false">slides/208.JPG</guid>
+        </item>
+        <item>
+            <title>P2060023</title>
+            <link>slides/P2060023.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060023.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2060023.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="06.02.11 12:15" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060023.JPG</guid>
+        </item>
+        <item>
+            <title>P2060025</title>
+            <link>slides/P2060025.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060025.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060025.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 12:21" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060025.JPG</guid>
+        </item>
+        <item>
+            <title>P2060028</title>
+            <link>slides/P2060028.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060028.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060028.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 12:23" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060028.JPG</guid>
+        </item>
+        <item>
+            <title>P2060033</title>
+            <link>slides/P2060033.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060033.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060033.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 14:20" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060033.JPG</guid>
+        </item>
+        <item>
+            <title>P2060035</title>
+            <link>slides/P2060035.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060035.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060035.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 14:21" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060035.JPG</guid>
+        </item>
+        <item>
+            <title>P2060037</title>
+            <link>slides/P2060037.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060037.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060037.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 14:26" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060037.JPG</guid>
+        </item>
+        <item>
+            <title>P2060038</title>
+            <link>slides/P2060038.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060038.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060038.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 14:28" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060038.JPG</guid>
+        </item>
+        <item>
+            <title>P2060039</title>
+            <link>slides/P2060039.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060039.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060039.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 14:33" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060039.JPG</guid>
+        </item>
+        <item>
+            <title>P2060040</title>
+            <link>slides/P2060040.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060040.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060040.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 18:18" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060040.JPG</guid>
+        </item>
+        <item>
+            <title>P2060042</title>
+            <link>slides/P2060042.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060042.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060042.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 18:19" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060042.JPG</guid>
+        </item>
+        <item>
+            <title>P2060045</title>
+            <link>slides/P2060045.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060045.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2060045.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="06.02.11 20:10" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060045.JPG</guid>
+        </item>
+        <item>
+            <title>P2060058</title>
+            <link>slides/P2060058.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060058.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2060058.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="06.02.11 20:13" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060058.JPG</guid>
+        </item>
+        <item>
+            <title>P2060062</title>
+            <link>slides/P2060062.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060062.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2060062.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="06.02.11 20:14" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060062.JPG</guid>
+        </item>
+        <item>
+            <title>P2060063</title>
+            <link>slides/P2060063.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:14 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2060063.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/P2060063.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="06.02.11 20:15" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2060063.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ZR-Ausflug</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Bild_1</title>
+            <link>slides/Bild_1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_1.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_1.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_1.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_2</title>
+            <link>slides/Bild_2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_2.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_3</title>
+            <link>slides/Bild_3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_3.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_3.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_3.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_4</title>
+            <link>slides/Bild_4.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_4.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_4.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_4.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_8</title>
+            <link>slides/Bild_8.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_8.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_8.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_8.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_9</title>
+            <link>slides/Bild_9.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_9.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_9.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_9.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_10</title>
+            <link>slides/Bild_10.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_10.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_10.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_10.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_11</title>
+            <link>slides/Bild_11.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_11.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_11.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_11.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_12</title>
+            <link>slides/Bild_12.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_12.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_12.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_12.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_13</title>
+            <link>slides/Bild_13.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_13.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_13.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_13.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_14</title>
+            <link>slides/Bild_14.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_14.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_14.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_14.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_15</title>
+            <link>slides/Bild_15.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_15.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_15.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_15.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_16</title>
+            <link>slides/Bild_16.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_16.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_16.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_16.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_17</title>
+            <link>slides/Bild_17.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_17.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_17.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_17.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_18</title>
+            <link>slides/Bild_18.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_18.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_18.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_18.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_19</title>
+            <link>slides/Bild_19.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_19.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_19.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_19.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_20</title>
+            <link>slides/Bild_20.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_20.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Bild_20.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/Bild_20.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_21</title>
+            <link>slides/Bild_21.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_21.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_21.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_21.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_22</title>
+            <link>slides/Bild_22.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_22.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_22.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_22.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_23</title>
+            <link>slides/Bild_23.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_23.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_23.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_23.jpg</guid>
+        </item>
+    </channel>
+</rss>

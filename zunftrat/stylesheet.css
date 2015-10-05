@@ -1,0 +1,7 @@
+img.eckenrundung { 
+-moz-border-radius:10px 10px 10px 10px; /* Firefox */
+-webkit-border-radius:10px 10px 10px 10px; /* Chrome, Safari */
+-khtml-border-radius:10px 10px 10px 10px; /* Konqueror */
+border-radius:10px 10px 10px 10px; /* CSS3 */
+behavior:url(border-radius.htc); /* Internet Explorer */
+}

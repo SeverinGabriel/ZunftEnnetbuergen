@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Wagenbau</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_1966</title>
+            <link>slides/IMG_1966.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1966.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1966.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1966.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1967</title>
+            <link>slides/IMG_1967.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1967.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1967.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1967.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1968</title>
+            <link>slides/IMG_1968.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1968.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1968.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1968.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1970</title>
+            <link>slides/IMG_1970.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1970.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1970.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1970.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1971</title>
+            <link>slides/IMG_1971.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1971.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1971.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1971.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1974</title>
+            <link>slides/IMG_1974.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1974.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1974.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1974.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1975</title>
+            <link>slides/IMG_1975.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1975.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1975.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1975.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1979</title>
+            <link>slides/IMG_1979.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1979.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1979.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1979.jpg</guid>
+        </item>
+    </channel>
+</rss>

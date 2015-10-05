@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>5. Mi 01.02.06</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Umbau 014</title>
+            <link>slides/Umbau%20014.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20014.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20014.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20014.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 015</title>
+            <link>slides/Umbau%20015.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20015.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20015.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20015.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 016</title>
+            <link>slides/Umbau%20016.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20016.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20016.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20016.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 017</title>
+            <link>slides/Umbau%20017.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20017.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20017.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20017.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 018</title>
+            <link>slides/Umbau%20018.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20018.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20018.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20018.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 020</title>
+            <link>slides/Umbau%20020.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20020.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20020.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20020.jpg</guid>
+        </item>
+        <item>
+            <title>Umbau 021</title>
+            <link>slides/Umbau%20021.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:24:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Umbau%20021.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Umbau%20021.jpg" width="570" height="428"/>
+            <guid isPermaLink="false">slides/Umbau%20021.jpg</guid>
+        </item>
+    </channel>
+</rss>

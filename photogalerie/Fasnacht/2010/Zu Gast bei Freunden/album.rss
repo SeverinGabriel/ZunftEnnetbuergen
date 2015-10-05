@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Zu Gast bei Freunden</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Beggo TannenStellen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggo Inthronisation/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggo Umzug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Buochs Uislumpete/album.rss" />   	
+    	<jalbum:link rel="sub" href="Stans GuugenUeberfall/album.rss" />   	
+    	<jalbum:link rel="sub" href="Stans TannenStellen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Stans Inthronisation/album.rss" />   	
+    	<jalbum:link rel="sub" href="Stans SchmuDo/album.rss" />   	
+        
+    </channel>
+</rss>

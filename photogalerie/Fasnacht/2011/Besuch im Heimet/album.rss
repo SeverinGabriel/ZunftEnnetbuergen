@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Besuch im Heimet</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>P2250085</title>
+            <link>slides/P2250085.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250085.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250085.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 08:58" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250085.JPG</guid>
+        </item>
+        <item>
+            <title>P2250086</title>
+            <link>slides/P2250086.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250086.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250086.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:07" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250086.JPG</guid>
+        </item>
+        <item>
+            <title>P2250087</title>
+            <link>slides/P2250087.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250087.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250087.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:07" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250087.JPG</guid>
+        </item>
+        <item>
+            <title>P2250088</title>
+            <link>slides/P2250088.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250088.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250088.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:07" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250088.JPG</guid>
+        </item>
+        <item>
+            <title>P2250089</title>
+            <link>slides/P2250089.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250089.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250089.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:08" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250089.JPG</guid>
+        </item>
+        <item>
+            <title>P2250090</title>
+            <link>slides/P2250090.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250090.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250090.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:08" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250090.JPG</guid>
+        </item>
+        <item>
+            <title>P2250091</title>
+            <link>slides/P2250091.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250091.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250091.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:10" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250091.JPG</guid>
+        </item>
+        <item>
+            <title>P2250092</title>
+            <link>slides/P2250092.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:25:43 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P2250092.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/P2250092.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="25.02.11 09:10" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE220,X785"/>
+            <guid isPermaLink="false">slides/P2250092.JPG</guid>
+        </item>
+    </channel>
+</rss>

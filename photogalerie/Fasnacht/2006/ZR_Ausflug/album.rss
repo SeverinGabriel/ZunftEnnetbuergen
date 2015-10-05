@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>ZR_Ausflug</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>001</title>
+            <link>slides/001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/001.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/001.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/001.jpg</guid>
+        </item>
+        <item>
+            <title>004</title>
+            <link>slides/004.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/004.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/004.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/004.jpg</guid>
+        </item>
+        <item>
+            <title>011</title>
+            <link>slides/011.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/011.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/011.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/011.jpg</guid>
+        </item>
+        <item>
+            <title>018</title>
+            <link>slides/018.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/018.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/018.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/018.jpg</guid>
+        </item>
+    </channel>
+</rss>

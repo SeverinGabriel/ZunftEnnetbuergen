@@ -1,0 +1,23 @@
+table
+{
+	width: 540px;
+}
+th
+{
+
+ 	background-color: #8F9ABB;
+}
+td
+{
+text-align: center;
+
+	background-color: white ;
+}
+th, td{
+width: 180px;
+}
+tr
+{
+display: block;
+    border-bottom: 1px solid black;
+}

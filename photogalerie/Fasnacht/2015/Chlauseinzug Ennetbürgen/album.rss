@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Chlauseinzug Ennetbürgen</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2014_1129_2039_07_Klausumzug</title>
+            <link>slides/2014_1129_2039_07_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2039_07_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2039_07_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 20:39" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2039_07_Klausumzug.jpg</guid>
+        </item>
+        <item>
+            <title>2014_1129_2039_12_Klausumzug</title>
+            <link>slides/2014_1129_2039_12_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2039_12_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2039_12_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 20:39" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2039_12_Klausumzug.jpg</guid>
+        </item>
+        <item>
+            <title>2014_1129_2039_19_Klausumzug</title>
+            <link>slides/2014_1129_2039_19_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2039_19_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2039_19_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 20:39" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2039_19_Klausumzug.jpg</guid>
+        </item>
+        <item>
+            <title>2014_1129_2049_04_Klausumzug</title>
+            <link>slides/2014_1129_2049_04_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2049_04_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2049_04_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 20:49" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2049_04_Klausumzug.jpg</guid>
+        </item>
+        <item>
+            <title>2014_1129_2334_13_Klausumzug</title>
+            <link>slides/2014_1129_2334_13_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2334_13_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2334_13_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 23:34" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2334_13_Klausumzug.jpg</guid>
+        </item>
+        <item>
+            <title>2014_1129_2335_21_Klausumzug</title>
+            <link>slides/2014_1129_2335_21_Klausumzug.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:05 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2014_1129_2335_21_Klausumzug.jpg" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/2014_1129_2335_21_Klausumzug.jpg" width="800" height="532"/>
+            <jalbum:exif originalDate="29.11.14 23:35" cameraMake="SONY" cameraModel="NEX-6"/>
+            <guid isPermaLink="false">slides/2014_1129_2335_21_Klausumzug.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Altzunftmeister-Ausflug</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>1</title>
+            <link>slides/1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:47:38 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/1.jpg" width="587" height="440"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>8</title>
+            <link>slides/8.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:47:38 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/8.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/8.jpg" width="587" height="440"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>9</title>
+            <link>slides/9.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:47:38 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/9.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>12</title>
+            <link>slides/12.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:47:38 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/12.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/12.jpg</guid>
+        </item>
+    </channel>
+</rss>

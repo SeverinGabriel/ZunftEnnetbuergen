@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bild aufhaengen</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Bild_A_ 001</title>
+            <link>slides/Bild_A_%20001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20001.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20001.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 002</title>
+            <link>slides/Bild_A_%20002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20002.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20002.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 003</title>
+            <link>slides/Bild_A_%20003.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20003.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20003.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20003.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 005</title>
+            <link>slides/Bild_A_%20005.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20005.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20005.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20005.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 007</title>
+            <link>slides/Bild_A_%20007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20007.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20007.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20007.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 008</title>
+            <link>slides/Bild_A_%20008.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20008.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20008.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20008.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 010</title>
+            <link>slides/Bild_A_%20010.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20010.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20010.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20010.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 012</title>
+            <link>slides/Bild_A_%20012.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20012.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20012.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20012.jpg</guid>
+        </item>
+        <item>
+            <title>Bild_A_ 015</title>
+            <link>slides/Bild_A_%20015.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:01:08 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Bild_A_%20015.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Bild_A_%20015.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/Bild_A_%20015.jpg</guid>
+        </item>
+    </channel>
+</rss>

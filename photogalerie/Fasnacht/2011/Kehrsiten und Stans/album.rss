@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kehrsiten und Stans</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Auftritt1</title>
+            <link>slides/Auftritt1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt1.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:13" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt1.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt2</title>
+            <link>slides/Auftritt2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt2.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:13" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt2.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt3</title>
+            <link>slides/Auftritt3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt3.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:17" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt3.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt4</title>
+            <link>slides/Auftritt4.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt4.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Auftritt4.jpg" width="356" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:08" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt4.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt5</title>
+            <link>slides/Auftritt5.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt5.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Auftritt5.jpg" width="356" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:08" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt5.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt6</title>
+            <link>slides/Auftritt6.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt6.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt6.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:07" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt6.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt7</title>
+            <link>slides/Auftritt7.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt7.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt7.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:06" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt7.jpg</guid>
+        </item>
+        <item>
+            <title>Auftritt8</title>
+            <link>slides/Auftritt8.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Auftritt8.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Auftritt8.jpg" width="633" height="475"/>
+            <jalbum:exif originalDate="15.01.11 22:05" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Auftritt8.jpg</guid>
+        </item>
+        <item>
+            <title>Intronisationen 144</title>
+            <link>slides/Intronisationen%20144.html#</link>
+            <pubDate>Sat, 12 Jan 2013 18:18:51 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Intronisationen%20144.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Intronisationen%20144.JPG" width="633" height="475"/>
+            <jalbum:exif originalDate="16.01.11 15:01" cameraMake="OLYMPUS IMAGING CORP.  " cameraModel="FE5030,X965,X960       "/>
+            <guid isPermaLink="false">slides/Intronisationen%20144.JPG</guid>
+        </item>
+    </channel>
+</rss>

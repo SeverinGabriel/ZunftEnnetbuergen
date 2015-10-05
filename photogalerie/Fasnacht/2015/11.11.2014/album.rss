@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>11.11.2014</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>DSC_0973</title>
+            <link>slides/DSC_0973.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0973.JPG" width="120" height="68"/>
+            <media:content type="image/jpeg" url="slides/DSC_0973.JPG" width="800" height="450"/>
+            <guid isPermaLink="false">slides/DSC_0973.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0974</title>
+            <link>slides/DSC_0974.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0974.JPG" width="68" height="120"/>
+            <media:content type="image/jpeg" url="slides/DSC_0974.JPG" width="338" height="600"/>
+            <guid isPermaLink="false">slides/DSC_0974.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0976</title>
+            <link>slides/DSC_0976.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0976.JPG" width="68" height="120"/>
+            <media:content type="image/jpeg" url="slides/DSC_0976.JPG" width="338" height="600"/>
+            <guid isPermaLink="false">slides/DSC_0976.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0981</title>
+            <link>slides/DSC_0981.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0981.JPG" width="68" height="120"/>
+            <media:content type="image/jpeg" url="slides/DSC_0981.JPG" width="338" height="600"/>
+            <guid isPermaLink="false">slides/DSC_0981.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0988</title>
+            <link>slides/DSC_0988.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0988.JPG" width="120" height="68"/>
+            <media:content type="image/jpeg" url="slides/DSC_0988.JPG" width="800" height="450"/>
+            <guid isPermaLink="false">slides/DSC_0988.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0994</title>
+            <link>slides/DSC_0994.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0994.JPG" width="120" height="68"/>
+            <media:content type="image/jpeg" url="slides/DSC_0994.JPG" width="800" height="450"/>
+            <guid isPermaLink="false">slides/DSC_0994.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_0998_1</title>
+            <link>slides/DSC_0998_1.html</link>
+            <pubDate>Sat, 14 Feb 2015 13:46:04 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_0998_1.JPG" width="120" height="68"/>
+            <media:content type="image/jpeg" url="slides/DSC_0998_1.JPG" width="800" height="450"/>
+            <guid isPermaLink="false">slides/DSC_0998_1.JPG</guid>
+        </item>
+    </channel>
+</rss>

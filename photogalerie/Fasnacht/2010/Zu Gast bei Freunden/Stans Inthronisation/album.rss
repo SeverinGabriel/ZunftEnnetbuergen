@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Stans Inthronisation</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_1213</title>
+            <link>slides/IMG_1213.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1213.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1213.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1213.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1215</title>
+            <link>slides/IMG_1215.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1215.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1215.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1215.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1216</title>
+            <link>slides/IMG_1216.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1216.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1216.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1216.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1219</title>
+            <link>slides/IMG_1219.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1219.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1219.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1219.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1221</title>
+            <link>slides/IMG_1221.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1221.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1221.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1221.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1224</title>
+            <link>slides/IMG_1224.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1224.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1224.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1224.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1225</title>
+            <link>slides/IMG_1225.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1225.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1225.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1225.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1226</title>
+            <link>slides/IMG_1226.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1226.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1226.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1226.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1229</title>
+            <link>slides/IMG_1229.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1229.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1229.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1229.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1230</title>
+            <link>slides/IMG_1230.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:52:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1230.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1230.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1230.jpg</guid>
+        </item>
+    </channel>
+</rss>

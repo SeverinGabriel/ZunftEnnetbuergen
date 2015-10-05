@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Zu Gast bei Freunden</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Beggo_Ball/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggo_Intro/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggo_Umzug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Buochs_Di/album.rss" />   	
+    	<jalbum:link rel="sub" href="SchmuDo/album.rss" />   	
+    	<jalbum:link rel="sub" href="TS_Stans/album.rss" />   	
+        
+    </channel>
+</rss>

@@ -1,0 +1,175 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Head</title>
+</head>
+
+
+<base target="_self">
+
+<script language="JavaScript1.2">
+<!--
+/******************************************************************/
+/**** ACHTUNG: Nur die Werte zwischen den Sternen verändern!!! ****/
+/******************************************************************/
+/****************************************** created by P. Büschi **/
+/******************************************************************/
+
+var kzif = 0;
+var cnt = 0;
+var tdef, stop;
+var col1, col2;
+var txt1, txt2;
+var on, off;
+
+
+/***************************************************************************************/
+/****             Hier können die Farben und Pfeile bestimmt werden                 ****/
+/***************************************************************************************/
+
+col1 = '#FFD202';		// Die Farbe für den Effekt
+col2 = '#FFFFFF';		// Hintegrund Farbe des Frames
+
+txt2 = '#000000';		// Die Standardfarbe des Textes
+txt1 = '#000000';		// Die Textfarbe für den Effekt
+
+
+
+on   = 'pfeil.gif';		// Filename des Pfeiles
+off  = 'blank.gif';		// Filename des Blanks (muss gleich gross sein wie das Bild!!!)
+
+/**************************************************************************************/
+
+
+function menuchange(td,MO,name){			
+	if (tdef!=td) {
+		if (kzif==0) {
+			if (MO==1){td.style.background=col1; td.style.color=txt1;} 
+			if (MO==0){td.style.background=col2; td.style.color=txt2;}
+		}
+	}
+	else {
+		kzif = 0;		
+	}
+	
+	if (name!="") {
+		if (name!=stop){
+			if (MO==1) {this.document[name].src=on;}
+			if (MO==0) {this.document[name].src=off;}
+		}
+	}
+}
+
+
+function menuclick(td,url,name) {
+	kzif = 1
+	td.style.background=col1;	
+	if (cnt>0) {
+		if (name!="") {
+			this.document[name].src=on;
+			this.document[stop].src=off;
+		}
+		tdef.style.background=col2;
+		tdef.style.color=txt2;
+	}
+	cnt = cnt + 1;
+	stop=name;
+	tdef = td;
+
+
+	/*****************************************************/
+	/** Hier kann die Zielframenummer angepasst werden **/
+	/*****************************************************/
+	
+		parent.frames[1].location = url;
+
+	
+	/****************************************************/
+	
+}
+//-->
+</script>
+
+
+<body>
+
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" bgcolor="#FFFFFF" >
+
+
+
+<table cellspacing="0" bgcolor="#FFFBC4" style="border-bottom:1px solid #CC3300; border-top:0px solid #CC3300; border-left-width:1px; border-right-width:1px" width="100%" height="9">
+	<tr>
+		<td style="border-bottom:medium none #5181B5; padding:0" width="100%" bgcolor="#FFFFFF">
+		<div align="left">
+
+<table style="width:165px" border="0" colspan="0" rowspan="0" id="table4" bordercolor="#FFFBC4" cellspacing="1" cellpadding="0">
+	<tr>
+		<td align="center" nowrap height="12" bgcolor="#FFFFFF" width="161" style="border-style: none; border-width: medium" bordercolor="#FFFBC4">
+		<div align="left">
+
+<table style="border-width:0px; " border="0" colspan="0" rowspan="0" id="table5" bordercolor="#FFFBC4" cellspacing="1" cellpadding="0">
+	<tr>
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2005/Fasnacht_2005.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+        <span style="font-family: Tahoma; "><font style="font-size: 9pt">2005</font></span></td>
+	
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2006/Fasnacht_2006.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2006</font></span></td>
+	
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2007/Fasnacht_2007.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2007</font></span></td>
+
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2008/Fasnacht_2008.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2008</font></span></td>
+		
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2009/Fasnacht_2009.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2009</font></span></td>
+
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2010/Fasnacht_2010.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2010</font></span></td>
+
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2011/Fasnacht_2011.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2011</font></span></td>
+		
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2012/Fasnacht_2012.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2012</font></span></td>
+		
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2013/Fasnacht_2013.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2013</font></span></td>
+		
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2014/Fasnacht_2014.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2014</font></span></td>
+		
+		<td style="cursor:hand; padding-left:2px; padding-right:2px; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-style:solid; border-bottom-width:0" onclick="menuclick(this,'Fasnacht/2015/Fasnacht_2015.html','')" onmouseover="menuchange(this,1,'')" onmouseout="menuchange(this,0,'')" align="left" nowrap bgcolor="#FFFFFF" height="10">
+		<span style="font-family: Tahoma; "><font style="font-size: 9pt">2015</font></span></td>
+		
+		
+		
+	</tr>
+					
+	
+</table>
+
+      	</div>
+		</td>
+		
+	</tr>
+					
+	
+	</table>
+
+      	</div>
+
+
+			
+			</td>
+	</tr>
+	</table>
+
+
+
+</body>
+
+</html>

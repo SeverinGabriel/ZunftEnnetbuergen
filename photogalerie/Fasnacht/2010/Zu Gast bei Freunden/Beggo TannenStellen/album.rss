@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Beggo TannenStellen</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_1195</title>
+            <link>slides/IMG_1195.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1195.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1195.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1195.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1196</title>
+            <link>slides/IMG_1196.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1196.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1196.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1196.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1199</title>
+            <link>slides/IMG_1199.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1199.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1199.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1199.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1200</title>
+            <link>slides/IMG_1200.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1200.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1200.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1200.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1201</title>
+            <link>slides/IMG_1201.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1201.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1201.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1201.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1202</title>
+            <link>slides/IMG_1202.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1202.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1202.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1202.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1207</title>
+            <link>slides/IMG_1207.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1207.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1207.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1207.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1210</title>
+            <link>slides/IMG_1210.html#</link>
+            <pubDate>Sat, 12 Jan 2013 17:48:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1210.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1210.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1210.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,36 @@
+#Text
+{
+
+}
+
+
+#beschraenkt
+{
+color: red;
+}
+#Pelicans
+{
+
+float:left;
+width:300px;
+}
+#Form
+{
+position:absolute;
+
+	margin-left: 340px;
+}
+#Reservation
+{
+margin-top: 0px;
+margin-bottom: 0px;
+}
+#Tickets
+{
+	color:red;
+	font-family: verdana;
+	font-weight:bold;
+}
+td{padding: 0 0 0 0;}
+
+

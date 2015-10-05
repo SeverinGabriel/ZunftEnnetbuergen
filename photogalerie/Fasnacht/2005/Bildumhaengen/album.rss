@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bildumhaengen</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>bildum01</title>
+            <link>slides/bildum01.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum01.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum01.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum01.jpg</guid>
+        </item>
+        <item>
+            <title>bildum02</title>
+            <link>slides/bildum02.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum02.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum02.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum02.jpg</guid>
+        </item>
+        <item>
+            <title>bildum03</title>
+            <link>slides/bildum03.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum03.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum03.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum03.jpg</guid>
+        </item>
+        <item>
+            <title>bildum04</title>
+            <link>slides/bildum04.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum04.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum04.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum04.jpg</guid>
+        </item>
+        <item>
+            <title>bildum05</title>
+            <link>slides/bildum05.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum05.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum05.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum05.jpg</guid>
+        </item>
+        <item>
+            <title>bildum06</title>
+            <link>slides/bildum06.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum06.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum06.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum06.jpg</guid>
+        </item>
+        <item>
+            <title>bildum07</title>
+            <link>slides/bildum07.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum07.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum07.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum07.jpg</guid>
+        </item>
+        <item>
+            <title>bildum10</title>
+            <link>slides/bildum10.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum10.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum10.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum10.jpg</guid>
+        </item>
+        <item>
+            <title>bildum11</title>
+            <link>slides/bildum11.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum11.jpg" width="121" height="124"/>
+            <media:content type="image/jpeg" url="slides/bildum11.jpg" width="464" height="475"/>
+            <guid isPermaLink="false">slides/bildum11.jpg</guid>
+        </item>
+        <item>
+            <title>bildum12</title>
+            <link>slides/bildum12.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum12.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum12.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum12.jpg</guid>
+        </item>
+        <item>
+            <title>bildum13</title>
+            <link>slides/bildum13.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum13.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum13.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum13.jpg</guid>
+        </item>
+        <item>
+            <title>bildum16</title>
+            <link>slides/bildum16.html#</link>
+            <pubDate>Sat, 12 Jan 2013 14:53:48 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/bildum16.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/bildum16.jpg" width="612" height="408"/>
+            <guid isPermaLink="false">slides/bildum16.jpg</guid>
+        </item>
+    </channel>
+</rss>

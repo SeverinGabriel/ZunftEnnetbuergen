@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Umbau</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="1. Sa 14.01.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="2. Mi 18.01.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="3. Sa 21.01.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="4. Mi 25.01.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="5. Mi 01.02.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="6. Sa 03.02.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="7. Mi 08.02.06/album.rss" />   	
+    	<jalbum:link rel="sub" href="8. Nov 2006/album.rss" />   	
+        
+    </channel>
+</rss>

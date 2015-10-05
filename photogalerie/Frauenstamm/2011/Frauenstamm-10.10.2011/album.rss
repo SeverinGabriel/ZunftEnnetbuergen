@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Frauenstamm-10.10.2011</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Chalet 001</title>
+            <link>slides/Chalet%20001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20001.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20001.JPG" width="355" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:26" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20001.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 002</title>
+            <link>slides/Chalet%20002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20002.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20002.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:26" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20002.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 003</title>
+            <link>slides/Chalet%20003.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20003.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20003.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:27" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20003.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 004</title>
+            <link>slides/Chalet%20004.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20004.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20004.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:28" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20004.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 005</title>
+            <link>slides/Chalet%20005.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20005.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20005.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:29" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20005.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 006</title>
+            <link>slides/Chalet%20006.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20006.JPG" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20006.JPG" width="636" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:30" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20006.JPG</guid>
+        </item>
+        <item>
+            <title>Chalet 007</title>
+            <link>slides/Chalet%20007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 12:16:30 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Chalet%20007.JPG" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/Chalet%20007.JPG" width="356" height="475"/>
+            <jalbum:exif originalDate="10.10.11 20:33" cameraMake="Apple" cameraModel="iPhone 4"/>
+            <guid isPermaLink="false">slides/Chalet%20007.JPG</guid>
+        </item>
+    </channel>
+</rss>

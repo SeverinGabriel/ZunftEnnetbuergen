@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fotos 2006</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Umbau/album.rss" />   	
+    	<jalbum:link rel="sub" href="AZM_Ausflug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Inthroni_Stans/album.rss" />   	
+    	<jalbum:link rel="sub" href="Kinderumzug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Luftschiff/album.rss" />   	
+    	<jalbum:link rel="sub" href="Ue28/album.rss" />   	
+    	<jalbum:link rel="sub" href="Umzug_Stans/album.rss" />   	
+    	<jalbum:link rel="sub" href="ZR_Ausflug/album.rss" />   	
+        
+    </channel>
+</rss>

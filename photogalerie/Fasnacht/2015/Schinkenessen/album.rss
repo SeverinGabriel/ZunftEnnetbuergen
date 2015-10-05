@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Schinkenessen</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>150621-001</title>
+            <link>slides/150621-001.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-001.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-001.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 17:15" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-001.JPG</guid>
+        </item>
+        <item>
+            <title>150621-004</title>
+            <link>slides/150621-004.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-004.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-004.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 17:15" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-004.JPG</guid>
+        </item>
+        <item>
+            <title>150621-013</title>
+            <link>slides/150621-013.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-013.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-013.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 17:17" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-013.JPG</guid>
+        </item>
+        <item>
+            <title>150621-023</title>
+            <link>slides/150621-023.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-023.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-023.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 18:07" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-023.JPG</guid>
+        </item>
+        <item>
+            <title>150621-027</title>
+            <link>slides/150621-027.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-027.JPG" width="80" height="120"/>
+            <media:content type="image/jpeg" url="slides/150621-027.JPG" width="399" height="600"/>
+            <jalbum:exif originalDate="21.06.15 18:30" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-027.JPG</guid>
+        </item>
+        <item>
+            <title>150621-028</title>
+            <link>slides/150621-028.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-028.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-028.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 18:30" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-028.JPG</guid>
+        </item>
+        <item>
+            <title>150621-030</title>
+            <link>slides/150621-030.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-030.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-030.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 18:30" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-030.JPG</guid>
+        </item>
+        <item>
+            <title>150621-032</title>
+            <link>slides/150621-032.html</link>
+            <pubDate>Sun, 05 Jul 2015 20:27:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/150621-032.JPG" width="120" height="80"/>
+            <media:content type="image/jpeg" url="slides/150621-032.JPG" width="800" height="531"/>
+            <jalbum:exif originalDate="21.06.15 19:03" cameraMake="NIKON CORPORATION" cameraModel="NIKON D90"/>
+            <guid isPermaLink="false">slides/150621-032.JPG</guid>
+        </item>
+    </channel>
+</rss>

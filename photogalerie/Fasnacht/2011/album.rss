@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fotos 2011</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Tannenstellen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Inthronisation/album.rss" />   	
+    	<jalbum:link rel="sub" href="Kehrsiten und Stans/album.rss" />   	
+    	<jalbum:link rel="sub" href="Chriesiball Kehrsiten/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggoball/album.rss" />   	
+    	<jalbum:link rel="sub" href="Wagenbau/album.rss" />   	
+    	<jalbum:link rel="sub" href="Guggenueberfall/album.rss" />   	
+    	<jalbum:link rel="sub" href="Schmudo Stans/album.rss" />   	
+    	<jalbum:link rel="sub" href="Ue28 Party/album.rss" />   	
+    	<jalbum:link rel="sub" href="Besuch im Altersheim/album.rss" />   	
+    	<jalbum:link rel="sub" href="Besuch Frohsinn/album.rss" />   	
+    	<jalbum:link rel="sub" href="Besuch im Heimet/album.rss" />   	
+    	<jalbum:link rel="sub" href="Umzug Ennetbuergen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Zunftratsausflug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Tag der offenen Tuer/album.rss" />   	
+        
+    </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>TS_Stans</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_1816</title>
+            <link>slides/IMG_1816.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1816.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1816.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1816.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1817</title>
+            <link>slides/IMG_1817.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1817.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1817.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1817.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1818</title>
+            <link>slides/IMG_1818.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1818.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1818.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1818.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1820</title>
+            <link>slides/IMG_1820.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1820.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1820.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1820.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1821</title>
+            <link>slides/IMG_1821.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1821.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1821.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1821.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1822</title>
+            <link>slides/IMG_1822.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1822.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1822.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1822.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1825</title>
+            <link>slides/IMG_1825.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1825.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1825.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1825.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1826</title>
+            <link>slides/IMG_1826.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:41:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1826.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1826.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1826.jpg</guid>
+        </item>
+    </channel>
+</rss>

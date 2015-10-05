@@ -1,0 +1,16 @@
+
+
+#plakettenverkauf
+{
+position:static;
+	left:0px;
+	width: 145px;
+	height:45px;
+	
+	background-color:rgb(188, 0, 0);
+}
+
+#plakettenverkauf p{
+color:white;
+font-style: bold;
+padding-top:5px;}

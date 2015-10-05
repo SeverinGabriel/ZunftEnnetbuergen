@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Nr01bis20</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>01_Fahne</title>
+            <link>slides/01_Fahne.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/01_Fahne.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/01_Fahne.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/01_Fahne.jpg</guid>
+        </item>
+        <item>
+            <title>02_Tambouren</title>
+            <link>slides/02_Tambouren.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02_Tambouren.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/02_Tambouren.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/02_Tambouren.jpg</guid>
+        </item>
+        <item>
+            <title>02_Tambouren2</title>
+            <link>slides/02_Tambouren2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02_Tambouren2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/02_Tambouren2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/02_Tambouren2.jpg</guid>
+        </item>
+        <item>
+            <title>03_PTA_Kunterbunt</title>
+            <link>slides/03_PTA_Kunterbunt.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/03_PTA_Kunterbunt.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/03_PTA_Kunterbunt.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/03_PTA_Kunterbunt.jpg</guid>
+        </item>
+        <item>
+            <title>04_Heimet</title>
+            <link>slides/04_Heimet.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/04_Heimet.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/04_Heimet.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/04_Heimet.jpg</guid>
+        </item>
+        <item>
+            <title>05_Familie_Odermatt1</title>
+            <link>slides/05_Familie_Odermatt1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05_Familie_Odermatt1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/05_Familie_Odermatt1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/05_Familie_Odermatt1.jpg</guid>
+        </item>
+        <item>
+            <title>05_Familie_Odermatt2</title>
+            <link>slides/05_Familie_Odermatt2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05_Familie_Odermatt2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/05_Familie_Odermatt2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/05_Familie_Odermatt2.jpg</guid>
+        </item>
+        <item>
+            <title>05_Familie_Odermatt3</title>
+            <link>slides/05_Familie_Odermatt3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/05_Familie_Odermatt3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/05_Familie_Odermatt3.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/05_Familie_Odermatt3.jpg</guid>
+        </item>
+        <item>
+            <title>06_Sunnaguugger</title>
+            <link>slides/06_Sunnaguugger.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/06_Sunnaguugger.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/06_Sunnaguugger.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/06_Sunnaguugger.jpg</guid>
+        </item>
+        <item>
+            <title>07_Ehrenmitglieder1</title>
+            <link>slides/07_Ehrenmitglieder1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07_Ehrenmitglieder1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/07_Ehrenmitglieder1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/07_Ehrenmitglieder1.jpg</guid>
+        </item>
+        <item>
+            <title>07_Ehrenmitglieder2</title>
+            <link>slides/07_Ehrenmitglieder2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07_Ehrenmitglieder2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/07_Ehrenmitglieder2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/07_Ehrenmitglieder2.jpg</guid>
+        </item>
+        <item>
+            <title>07b_Einzelmasken1</title>
+            <link>slides/07b_Einzelmasken1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07b_Einzelmasken1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/07b_Einzelmasken1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/07b_Einzelmasken1.jpg</guid>
+        </item>
+        <item>
+            <title>07b_Einzelmasken2</title>
+            <link>slides/07b_Einzelmasken2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07b_Einzelmasken2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/07b_Einzelmasken2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/07b_Einzelmasken2.jpg</guid>
+        </item>
+        <item>
+            <title>07b_Einzelmasken3</title>
+            <link>slides/07b_Einzelmasken3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/07b_Einzelmasken3.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/07b_Einzelmasken3.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/07b_Einzelmasken3.jpg</guid>
+        </item>
+        <item>
+            <title>08_Feuerwehr1</title>
+            <link>slides/08_Feuerwehr1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08_Feuerwehr1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/08_Feuerwehr1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/08_Feuerwehr1.jpg</guid>
+        </item>
+        <item>
+            <title>08_Feuerwehr2</title>
+            <link>slides/08_Feuerwehr2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/08_Feuerwehr2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/08_Feuerwehr2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/08_Feuerwehr2.jpg</guid>
+        </item>
+        <item>
+            <title>09_Scharbahufa</title>
+            <link>slides/09_Scharbahufa.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/09_Scharbahufa.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/09_Scharbahufa.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/09_Scharbahufa.jpg</guid>
+        </item>
+        <item>
+            <title>10_Gewerbe1</title>
+            <link>slides/10_Gewerbe1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10_Gewerbe1.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/10_Gewerbe1.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/10_Gewerbe1.jpg</guid>
+        </item>
+        <item>
+            <title>10_Gewerbe2</title>
+            <link>slides/10_Gewerbe2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10_Gewerbe2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/10_Gewerbe2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/10_Gewerbe2.jpg</guid>
+        </item>
+        <item>
+            <title>10b_Gruppe</title>
+            <link>slides/10b_Gruppe.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/10b_Gruppe.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/10b_Gruppe.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/10b_Gruppe.jpg</guid>
+        </item>
+        <item>
+            <title>11_Frohsinn1</title>
+            <link>slides/11_Frohsinn1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11_Frohsinn1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/11_Frohsinn1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/11_Frohsinn1.jpg</guid>
+        </item>
+        <item>
+            <title>11_Frohsinn2</title>
+            <link>slides/11_Frohsinn2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/11_Frohsinn2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/11_Frohsinn2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/11_Frohsinn2.jpg</guid>
+        </item>
+        <item>
+            <title>12_Rosswoschwyber</title>
+            <link>slides/12_Rosswoschwyber.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12_Rosswoschwyber.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/12_Rosswoschwyber.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/12_Rosswoschwyber.jpg</guid>
+        </item>
+        <item>
+            <title>13_Skiklup_Birgeberg</title>
+            <link>slides/13_Skiklup_Birgeberg.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/13_Skiklup_Birgeberg.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/13_Skiklup_Birgeberg.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/13_Skiklup_Birgeberg.jpg</guid>
+        </item>
+        <item>
+            <title>14_Chriesi1</title>
+            <link>slides/14_Chriesi1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14_Chriesi1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/14_Chriesi1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/14_Chriesi1.jpg</guid>
+        </item>
+        <item>
+            <title>14_Chriesi2</title>
+            <link>slides/14_Chriesi2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14_Chriesi2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/14_Chriesi2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/14_Chriesi2.jpg</guid>
+        </item>
+        <item>
+            <title>14_Chriesi3</title>
+            <link>slides/14_Chriesi3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/14_Chriesi3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/14_Chriesi3.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/14_Chriesi3.jpg</guid>
+        </item>
+        <item>
+            <title>15_Huda_Hada</title>
+            <link>slides/15_Huda_Hada.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/15_Huda_Hada.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/15_Huda_Hada.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/15_Huda_Hada.jpg</guid>
+        </item>
+        <item>
+            <title>16_Trachten1</title>
+            <link>slides/16_Trachten1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16_Trachten1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/16_Trachten1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/16_Trachten1.jpg</guid>
+        </item>
+        <item>
+            <title>16_Trachten2</title>
+            <link>slides/16_Trachten2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/16_Trachten2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/16_Trachten2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/16_Trachten2.jpg</guid>
+        </item>
+        <item>
+            <title>17_Beggo_Schrenzer</title>
+            <link>slides/17_Beggo_Schrenzer.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/17_Beggo_Schrenzer.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/17_Beggo_Schrenzer.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/17_Beggo_Schrenzer.jpg</guid>
+        </item>
+        <item>
+            <title>18_Beggo_Zunft1</title>
+            <link>slides/18_Beggo_Zunft1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18_Beggo_Zunft1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/18_Beggo_Zunft1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/18_Beggo_Zunft1.jpg</guid>
+        </item>
+        <item>
+            <title>18_Beggo_Zunft2</title>
+            <link>slides/18_Beggo_Zunft2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/18_Beggo_Zunft2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/18_Beggo_Zunft2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/18_Beggo_Zunft2.jpg</guid>
+        </item>
+        <item>
+            <title>19_Grinda_Binder</title>
+            <link>slides/19_Grinda_Binder.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/19_Grinda_Binder.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/19_Grinda_Binder.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/19_Grinda_Binder.jpg</guid>
+        </item>
+        <item>
+            <title>20_Nonevero</title>
+            <link>slides/20_Nonevero.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20_Nonevero.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/20_Nonevero.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/20_Nonevero.jpg</guid>
+        </item>
+    </channel>
+</rss>

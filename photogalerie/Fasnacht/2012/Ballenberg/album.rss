@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ballenberg</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>DSC_7272</title>
+            <link>slides/DSC_7272.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7272.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7272.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7272.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7276</title>
+            <link>slides/DSC_7276.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7276.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7276.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7276.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7280</title>
+            <link>slides/DSC_7280.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7280.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSC_7280.JPG" width="316" height="475"/>
+            <guid isPermaLink="false">slides/DSC_7280.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7299</title>
+            <link>slides/DSC_7299.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7299.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7299.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7299.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7310</title>
+            <link>slides/DSC_7310.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7310.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7310.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7310.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7317</title>
+            <link>slides/DSC_7317.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7317.JPG" width="82" height="124"/>
+            <media:content type="image/jpeg" url="slides/DSC_7317.JPG" width="316" height="475"/>
+            <guid isPermaLink="false">slides/DSC_7317.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7339</title>
+            <link>slides/DSC_7339.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7339.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7339.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7339.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7351</title>
+            <link>slides/DSC_7351.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7351.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7351.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7351.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_7409</title>
+            <link>slides/DSC_7409.html#</link>
+            <pubDate>Sat, 12 Jan 2013 19:00:37 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC_7409.JPG" width="124" height="82"/>
+            <media:content type="image/jpeg" url="slides/DSC_7409.JPG" width="700" height="465"/>
+            <guid isPermaLink="false">slides/DSC_7409.JPG</guid>
+        </item>
+    </channel>
+</rss>

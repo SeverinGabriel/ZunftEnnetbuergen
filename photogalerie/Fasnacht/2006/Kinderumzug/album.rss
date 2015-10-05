@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Kinderumzug</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>001</title>
+            <link>slides/001.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/001.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/001.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/001.jpg</guid>
+        </item>
+        <item>
+            <title>002</title>
+            <link>slides/002.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/002.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/002.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/002.jpg</guid>
+        </item>
+        <item>
+            <title>004</title>
+            <link>slides/004.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/004.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/004.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/004.jpg</guid>
+        </item>
+        <item>
+            <title>006</title>
+            <link>slides/006.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/006.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/006.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/006.jpg</guid>
+        </item>
+        <item>
+            <title>007</title>
+            <link>slides/007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/007.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/007.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/007.jpg</guid>
+        </item>
+        <item>
+            <title>009</title>
+            <link>slides/009.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/009.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/009.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/009.jpg</guid>
+        </item>
+        <item>
+            <title>012</title>
+            <link>slides/012.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/012.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/012.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/012.jpg</guid>
+        </item>
+        <item>
+            <title>018</title>
+            <link>slides/018.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/018.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/018.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/018.jpg</guid>
+        </item>
+        <item>
+            <title>020</title>
+            <link>slides/020.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/020.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/020.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/020.jpg</guid>
+        </item>
+        <item>
+            <title>024</title>
+            <link>slides/024.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/024.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/024.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/024.jpg</guid>
+        </item>
+        <item>
+            <title>026</title>
+            <link>slides/026.html#</link>
+            <pubDate>Sat, 12 Jan 2013 15:27:00 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/026.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/026.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/026.jpg</guid>
+        </item>
+    </channel>
+</rss>

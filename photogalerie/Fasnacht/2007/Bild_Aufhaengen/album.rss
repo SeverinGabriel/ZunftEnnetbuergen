@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bild_Aufhaengen</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>006</title>
+            <link>slides/006.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/006.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/006.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/006.jpg</guid>
+        </item>
+        <item>
+            <title>007</title>
+            <link>slides/007.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/007.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/007.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/007.jpg</guid>
+        </item>
+        <item>
+            <title>008</title>
+            <link>slides/008.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/008.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/008.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/008.jpg</guid>
+        </item>
+        <item>
+            <title>016</title>
+            <link>slides/016.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/016.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/016.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/016.jpg</guid>
+        </item>
+        <item>
+            <title>018</title>
+            <link>slides/018.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/018.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/018.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/018.jpg</guid>
+        </item>
+        <item>
+            <title>020</title>
+            <link>slides/020.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:19 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/020.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/020.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/020.jpg</guid>
+        </item>
+    </channel>
+</rss>

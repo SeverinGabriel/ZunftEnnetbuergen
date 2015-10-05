@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Beggo_Ball</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>IMG_1955</title>
+            <link>slides/IMG_1955.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:40:59 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1955.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1955.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1955.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1959</title>
+            <link>slides/IMG_1959.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:40:59 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1959.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1959.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1959.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1964</title>
+            <link>slides/IMG_1964.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:40:59 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1964.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1964.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1964.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1965</title>
+            <link>slides/IMG_1965.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:40:59 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1965.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/IMG_1965.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/IMG_1965.jpg</guid>
+        </item>
+    </channel>
+</rss>

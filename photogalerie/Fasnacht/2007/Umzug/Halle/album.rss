@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Halle</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>155</title>
+            <link>slides/155.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/155.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/155.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/155.jpg</guid>
+        </item>
+        <item>
+            <title>161</title>
+            <link>slides/161.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/161.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/161.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/161.jpg</guid>
+        </item>
+        <item>
+            <title>163</title>
+            <link>slides/163.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/163.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/163.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/163.jpg</guid>
+        </item>
+        <item>
+            <title>164</title>
+            <link>slides/164.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:22 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/164.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/164.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/164.jpg</guid>
+        </item>
+    </channel>
+</rss>

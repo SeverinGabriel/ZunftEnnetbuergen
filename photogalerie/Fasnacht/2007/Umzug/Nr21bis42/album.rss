@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Nr21bis42</title>
+   	<link>../..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>21_Novum1</title>
+            <link>slides/21_Novum1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21_Novum1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/21_Novum1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/21_Novum1.jpg</guid>
+        </item>
+        <item>
+            <title>21_Novum2</title>
+            <link>slides/21_Novum2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21_Novum2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/21_Novum2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/21_Novum2.jpg</guid>
+        </item>
+        <item>
+            <title>21b_Kleinwagen</title>
+            <link>slides/21b_Kleinwagen.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/21b_Kleinwagen.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/21b_Kleinwagen.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/21b_Kleinwagen.jpg</guid>
+        </item>
+        <item>
+            <title>22_Ratschbasa1</title>
+            <link>slides/22_Ratschbasa1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22_Ratschbasa1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/22_Ratschbasa1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/22_Ratschbasa1.jpg</guid>
+        </item>
+        <item>
+            <title>22_Ratschbasa2</title>
+            <link>slides/22_Ratschbasa2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22_Ratschbasa2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/22_Ratschbasa2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/22_Ratschbasa2.jpg</guid>
+        </item>
+        <item>
+            <title>22_Wangi_Haxe1</title>
+            <link>slides/22_Wangi_Haxe1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/22_Wangi_Haxe1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/22_Wangi_Haxe1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/22_Wangi_Haxe1.jpg</guid>
+        </item>
+        <item>
+            <title>23_Brugglischranzer</title>
+            <link>slides/23_Brugglischranzer.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/23_Brugglischranzer.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/23_Brugglischranzer.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/23_Brugglischranzer.jpg</guid>
+        </item>
+        <item>
+            <title>25_GUGUBA_Wagen1</title>
+            <link>slides/25_GUGUBA_Wagen1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25_GUGUBA_Wagen1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/25_GUGUBA_Wagen1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/25_GUGUBA_Wagen1.jpg</guid>
+        </item>
+        <item>
+            <title>25_GUGUBA_Wagen2</title>
+            <link>slides/25_GUGUBA_Wagen2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25_GUGUBA_Wagen2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/25_GUGUBA_Wagen2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/25_GUGUBA_Wagen2.jpg</guid>
+        </item>
+        <item>
+            <title>26_GUGUBA</title>
+            <link>slides/26_GUGUBA.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/26_GUGUBA.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/26_GUGUBA.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/26_GUGUBA.jpg</guid>
+        </item>
+        <item>
+            <title>27_Feuerwehr1</title>
+            <link>slides/27_Feuerwehr1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27_Feuerwehr1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/27_Feuerwehr1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/27_Feuerwehr1.jpg</guid>
+        </item>
+        <item>
+            <title>27_Feuerwehr2</title>
+            <link>slides/27_Feuerwehr2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/27_Feuerwehr2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/27_Feuerwehr2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/27_Feuerwehr2.jpg</guid>
+        </item>
+        <item>
+            <title>28_Zuegle1</title>
+            <link>slides/28_Zuegle1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28_Zuegle1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/28_Zuegle1.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/28_Zuegle1.jpg</guid>
+        </item>
+        <item>
+            <title>28_Zuegle2</title>
+            <link>slides/28_Zuegle2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28_Zuegle2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/28_Zuegle2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/28_Zuegle2.jpg</guid>
+        </item>
+        <item>
+            <title>28_Zuegle3</title>
+            <link>slides/28_Zuegle3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28_Zuegle3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/28_Zuegle3.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/28_Zuegle3.jpg</guid>
+        </item>
+        <item>
+            <title>29_Piraten</title>
+            <link>slides/29_Piraten.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29_Piraten.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/29_Piraten.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/29_Piraten.jpg</guid>
+        </item>
+        <item>
+            <title>29a_Chatzemuisig1</title>
+            <link>slides/29a_Chatzemuisig1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29a_Chatzemuisig1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/29a_Chatzemuisig1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/29a_Chatzemuisig1.jpg</guid>
+        </item>
+        <item>
+            <title>29a_Chatzemuisig2</title>
+            <link>slides/29a_Chatzemuisig2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29a_Chatzemuisig2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/29a_Chatzemuisig2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/29a_Chatzemuisig2.jpg</guid>
+        </item>
+        <item>
+            <title>29b_Zauberer</title>
+            <link>slides/29b_Zauberer.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/29b_Zauberer.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/29b_Zauberer.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/29b_Zauberer.jpg</guid>
+        </item>
+        <item>
+            <title>30_Chaelti_Saegler</title>
+            <link>slides/30_Chaelti_Saegler.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/30_Chaelti_Saegler.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/30_Chaelti_Saegler.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/30_Chaelti_Saegler.jpg</guid>
+        </item>
+        <item>
+            <title>31_Sportschuetzen</title>
+            <link>slides/31_Sportschuetzen.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/31_Sportschuetzen.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/31_Sportschuetzen.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/31_Sportschuetzen.jpg</guid>
+        </item>
+        <item>
+            <title>32_Traeff</title>
+            <link>slides/32_Traeff.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/32_Traeff.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/32_Traeff.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/32_Traeff.jpg</guid>
+        </item>
+        <item>
+            <title>33_Wehrverein1</title>
+            <link>slides/33_Wehrverein1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33_Wehrverein1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/33_Wehrverein1.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/33_Wehrverein1.jpg</guid>
+        </item>
+        <item>
+            <title>33_Wehrverein2</title>
+            <link>slides/33_Wehrverein2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/33_Wehrverein2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/33_Wehrverein2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/33_Wehrverein2.jpg</guid>
+        </item>
+        <item>
+            <title>34_Staeder_Schraenzer1</title>
+            <link>slides/34_Staeder_Schraenzer1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34_Staeder_Schraenzer1.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/34_Staeder_Schraenzer1.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/34_Staeder_Schraenzer1.jpg</guid>
+        </item>
+        <item>
+            <title>34_Staeder_Schraenzer2</title>
+            <link>slides/34_Staeder_Schraenzer2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/34_Staeder_Schraenzer2.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/34_Staeder_Schraenzer2.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/34_Staeder_Schraenzer2.jpg</guid>
+        </item>
+        <item>
+            <title>35_Sammelwagen</title>
+            <link>slides/35_Sammelwagen.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/35_Sammelwagen.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/35_Sammelwagen.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/35_Sammelwagen.jpg</guid>
+        </item>
+        <item>
+            <title>36_Baerenbandi1</title>
+            <link>slides/36_Baerenbandi1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36_Baerenbandi1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/36_Baerenbandi1.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/36_Baerenbandi1.jpg</guid>
+        </item>
+        <item>
+            <title>36_Baerenbandi2</title>
+            <link>slides/36_Baerenbandi2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/36_Baerenbandi2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/36_Baerenbandi2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/36_Baerenbandi2.jpg</guid>
+        </item>
+        <item>
+            <title>37_Ribi-Haexae</title>
+            <link>slides/37_Ribi-Haexae.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37_Ribi-Haexae.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/37_Ribi-Haexae.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/37_Ribi-Haexae.jpg</guid>
+        </item>
+        <item>
+            <title>38_STV_Ennetbuergen1</title>
+            <link>slides/38_STV_Ennetbuergen1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/38_STV_Ennetbuergen1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/38_STV_Ennetbuergen1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/38_STV_Ennetbuergen1.jpg</guid>
+        </item>
+        <item>
+            <title>38_STV_Ennetbuergen2</title>
+            <link>slides/38_STV_Ennetbuergen2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/38_STV_Ennetbuergen2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/38_STV_Ennetbuergen2.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/38_STV_Ennetbuergen2.jpg</guid>
+        </item>
+        <item>
+            <title>39_Zunftmeister1</title>
+            <link>slides/39_Zunftmeister1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39_Zunftmeister1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/39_Zunftmeister1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/39_Zunftmeister1.jpg</guid>
+        </item>
+        <item>
+            <title>39_Zunftmeister2</title>
+            <link>slides/39_Zunftmeister2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39_Zunftmeister2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/39_Zunftmeister2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/39_Zunftmeister2.jpg</guid>
+        </item>
+        <item>
+            <title>40_Eltern_Zunftmeister1</title>
+            <link>slides/40_Eltern_Zunftmeister1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40_Eltern_Zunftmeister1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/40_Eltern_Zunftmeister1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/40_Eltern_Zunftmeister1.jpg</guid>
+        </item>
+        <item>
+            <title>40_Eltern_Zunftmeister2</title>
+            <link>slides/40_Eltern_Zunftmeister2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40_Eltern_Zunftmeister2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/40_Eltern_Zunftmeister2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/40_Eltern_Zunftmeister2.jpg</guid>
+        </item>
+        <item>
+            <title>40_Eltern_Zunftmeister3</title>
+            <link>slides/40_Eltern_Zunftmeister3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/40_Eltern_Zunftmeister3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/40_Eltern_Zunftmeister3.jpg" width="635" height="475"/>
+            <guid isPermaLink="false">slides/40_Eltern_Zunftmeister3.jpg</guid>
+        </item>
+        <item>
+            <title>41_Alt_Zunftmeister1</title>
+            <link>slides/41_Alt_Zunftmeister1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41_Alt_Zunftmeister1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/41_Alt_Zunftmeister1.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/41_Alt_Zunftmeister1.jpg</guid>
+        </item>
+        <item>
+            <title>41_Alt_Zunftmeister2</title>
+            <link>slides/41_Alt_Zunftmeister2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41_Alt_Zunftmeister2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/41_Alt_Zunftmeister2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/41_Alt_Zunftmeister2.jpg</guid>
+        </item>
+        <item>
+            <title>41_Alt_Zunftmeister3</title>
+            <link>slides/41_Alt_Zunftmeister3.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41_Alt_Zunftmeister3.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/41_Alt_Zunftmeister3.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/41_Alt_Zunftmeister3.jpg</guid>
+        </item>
+        <item>
+            <title>41_Alt_Zunftmeister4</title>
+            <link>slides/41_Alt_Zunftmeister4.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41_Alt_Zunftmeister4.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/41_Alt_Zunftmeister4.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/41_Alt_Zunftmeister4.jpg</guid>
+        </item>
+        <item>
+            <title>42_Birger_Faeger1</title>
+            <link>slides/42_Birger_Faeger1.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42_Birger_Faeger1.jpg" width="93" height="124"/>
+            <media:content type="image/jpeg" url="slides/42_Birger_Faeger1.jpg" width="356" height="475"/>
+            <guid isPermaLink="false">slides/42_Birger_Faeger1.jpg</guid>
+        </item>
+        <item>
+            <title>42_Birger_Faeger2</title>
+            <link>slides/42_Birger_Faeger2.html#</link>
+            <pubDate>Sat, 12 Jan 2013 16:17:23 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42_Birger_Faeger2.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/42_Birger_Faeger2.jpg" width="633" height="475"/>
+            <guid isPermaLink="false">slides/42_Birger_Faeger2.jpg</guid>
+        </item>
+    </channel>
+</rss>

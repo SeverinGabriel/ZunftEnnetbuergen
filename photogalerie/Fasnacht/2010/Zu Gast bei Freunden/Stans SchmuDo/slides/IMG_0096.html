@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+<!-- saved from url=(0014)about:internet -->
+<!-- saved from url=(0014)about:internet -->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta name="Keywords" content="photo,album,gallery,IMG_0096,IMG_0096" />
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)" />
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)" />
+<title>Fotos 2010/Zu Gast bei Freunden/Stans SchmuDo/IMG_0096</title>
+<script type="text/javascript">
+/* <![CDATA[ */
+function preventDefault(e) {
+	if (document.addEventListener) e.preventDefault();
+	else e.returnValue=false;
+	return false;
+}
+function keypress(e) {
+	if(typeof _jaWidgetFocus != 'undefined' && _jaWidgetFocus) return true;
+	if(document.activeElement && document.activeElement.nodeName == 'input') return true;
+	if(!e) var e=window.event;
+	if(e.keyCode) keyCode=e.keyCode; 
+	else if(e.which) keyCode=e.which;
+	switch(keyCode) {
+		case 8: window.location="../Fasnacht_2010.html"; return preventDefault(e); break;
+		case 63235: case 39: window.location="IMG_0097.html"+""; return preventDefault(e); break;
+		case 63234: case 37: window.location="IMG_0095.html"+""; return preventDefault(e); break;
+		case 63273: case 36: window.location="IMG_0053.html"+""; return preventDefault(e); break;
+		case 63275: case 35: window.location="IMG_0114.html"+""; return preventDefault(e); break;
+		case 32: show_down(); setTimeout('show_out()', 200); return preventDefault(e); break;
+	}
+	return true;
+}
+function setuplisteners() {
+	var isFF = navigator.userAgent.indexOf('Gecko') > -1 && navigator.userAgent.indexOf('KHTML') == -1;
+	if (document.addEventListener) {
+		document.addEventListener('keydown',keypress,false);
+	}
+	else if (document.attachEvent) {
+		document.attachEvent('onkeydown',keypress);
+		
+	}
+}
+idx0 = new Image(31,31); idx0.src = "../../../res/idx.gif";
+idx1 = new Image(31,31); idx1.src = "../../../res/idx1.gif";
+next0 = new Image(31,31);next0.src = "../../../res/next.gif";
+next1 = new Image(31,31);next1.src = "../../../res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "../../../res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "../../../res/prev1.gif";
+show0 = new Image(31,31);show0.src = "../../../res/show.gif";
+show1 = new Image(31,31);show1.src = "../../../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../../../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../../../res/stop1.gif";
+
+var show_param = -1;
+if (window.location.search.length > 1) {
+	var parms = window.location.search.substring(1,location.search.length).split("&");
+	for (var i = 0; i < parms.length; i++) {		
+		if(parms[i].substring(0, parms[i].indexOf("=")) == "show_param") 
+			delay = show_param = parms[i].substring(parms[i].indexOf("=") + 1, parms[i].length);
+	}
+}
+var show_delay = show_param;
+function show_timer() {
+	if (show_delay >= 0) {
+		show_delay--;
+		if (show_delay < 0 && show_param > 0) {
+			window.location="IMG_0097.html?show_param=" + show_param + "";
+		}
+		else if(show_param > 0) 
+			window.status='Time left: '+(show_delay + 1)+' s';
+	}
+	setTimeout('show_timer()', 1000);	
+}
+function show_over() {
+	document.getElementById("show").src = (show_param >= 0)? stop1.src : show1.src;
+	window.status = 'Diashow starten/beenden - Doppelklick, um die Geschwindigkeit zu ändern';
+}
+function show_out() {
+	document.getElementById("show").src = (show_param >= 0)? stop0.src : show0.src;
+}
+function show_down() {
+	el = document.getElementById("show");
+	if (show_param >= 0) { 
+		show_param = -1; 
+		el.src = stop1.src; 
+		window.status=''; 
+	} 
+	else { 
+		show_param = 2; 
+		el.src = show1.src; 
+	} 
+	show_delay = show_param; 
+}
+function change_delay() {
+	delay = prompt('Verzögerung', (show_param < 0)? 2 : show_param);
+	show_param = show_delay = delay; 
+	document.getElementById("show").src = show1.src;
+}
+window.onload = function() {
+	setuplisteners();
+	show_timer(); show_out();
+};
+/* ]]> */
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="../../../res/styles.css" />
+<link rel="alternate" href="../album.rss" type="application/rss+xml"/>
+</head>
+
+<body id="body">
+<div style="margin-left:auto; margin-right:auto; padding-bottom:10px; text-align:center;">
+<table style="height:54px;" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<!-- Header of slide pages -->
+<table style="width:702px;" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="width:31px;">
+  <a href="../Fasnacht_2010.html"><img style="border:0;" src="../../../res/idx.gif" onmouseover="this.src=idx1.src" onmouseout="this.src=idx0.src" width="31" height="31" title=" Index " alt="Up" id="idx" /></a></td>
+<td style="width:20px;">
+  <img style="border:0;" src="../../../res/hdr_left.gif" width="20" height="31" alt="" /></td>
+<td style="text-align:left; background:transparent url(../../../res/hdr_mid.gif); background-repeat: repeat-x; white-space:nowrap;" class="title"> <a href="../../../Fasnacht_2010.html">Fotos 2010</a> &raquo; <a href="../../Fasnacht_2010.html">Zu Gast bei Freunden</a> &raquo; <a href="../Fasnacht_2010.html">Stans SchmuDo</a> </td>
+<td style="width:20px;">
+  <img style="border:0;" src="../../../res/hdr_right.gif" width="20" height="31" alt="" /></td>
+<td style="width:31px;">
+  <a href="IMG_0095.html"><img style="border:0;" src="../../../res/prev.gif" onmouseover="this.src=prev1.src" onmouseout="this.src=prev0.src" width="31" height="31" title=" Voriges Bild " alt="Prev" id="prev" /></a></td>
+<td style="width:31px;">
+  <a href="IMG_0097.html"><img style="border:0;" src="../../../res/next.gif" onmouseover="this.src=next1.src" onmouseout="this.src=next0.src" width="31" height="31" title=" Nächstes Bild " alt="Next" id="next" /></a></td>
+
+<td style="width:31px;">
+  <a href="javascript:void(0)"><img style="border:0;" src="../../../res/show.gif" onmouseover="show_over();" onmouseout="show_out();" onmousedown="show_down();" ondblclick="change_delay();" width="31" height="31" title=" Diashow starten/beenden - Doppelklick, um die Geschwindigkeit zu ändern " alt="Slideshow" id="show" /></a></td>
+</tr></table>
+</td></tr></table>
+<br />
+<table style="width:702px;" align="center" class="infotable" cellspacing="0" cellpadding="2">
+  <tr><td style="text-align:center;" class="smalltxt">Bild |<a href="IMG_0053.html"> 1 </a>|<a href="IMG_0054.html"> 2 </a>|<a href="IMG_0056.html"> 3 </a>|<a href="IMG_0057.html"> 4 </a>|<a href="IMG_0059.html"> 5 </a>|<a href="IMG_0064.html"> 6 </a>|<a href="IMG_0065.html"> 7 </a>|<a href="IMG_0066.html"> 8 </a>|<a href="IMG_0069.html"> 9 </a>|<a href="IMG_0070.html"> 10 </a>|<a href="IMG_0071.html"> 11 </a>|<a href="IMG_0072.html"> 12 </a>|<a href="IMG_0073.html"> 13 </a>|<a href="IMG_0078.html"> 14 </a>|<a href="IMG_0079.html"> 15 </a>|<a href="IMG_0081.html"> 16 </a>|<a href="IMG_0083.html"> 17 </a>|<a href="IMG_0085.html"> 18 </a>|<a href="IMG_0087.html"> 19 </a>|<a href="IMG_0088.html"> 20 </a>|<a href="IMG_0090.html"> 21 </a>|<a href="IMG_0092.html"> 22 </a>|<a href="IMG_0093.html"> 23 </a>|<a href="IMG_0095.html"> 24 </a>|<span class="current">&nbsp;25&nbsp;</span>|<a href="IMG_0097.html" title=" Nächste Seite "> &gt; </a>|<a href="IMG_0114.html" title=" Letzte Seite "> &raquo;</a></td></tr>
+  
+</table><br />
+<a name="picttop"></a><map name="imagemap" style="text-decoration:none; border:0;" id="imap"><area coords="0,0,211,475" href="IMG_0095.html" alt=" Voriges Bild " title=" Voriges Bild " /><area coords="422,0,633,475" href="IMG_0097.html" alt=" Nächstes Bild " title=" Nächstes Bild " /><area coords="211,0,422,475" href="../Fasnacht_2010.html" alt=" Index " title=" Index " /></map>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td style="text-align:center; width:702px;">
+<img id="slide" src="IMG_0096.jpg" class="slideImage" width="633" height="475" alt="IMG_0096.jpg" title="" usemap="#imagemap" /></td>
+</tr></table>
+<br /> <!-- Comment and image data at BOTTOM -->
+<table align="center" style="width:702px;" class="infotable" cellspacing="0" cellpadding="2">
+  <tr><td style="text-align:center;" class="xsmalltxt">Anzahl Bilder: <strong>36</strong> | <a href="javascript:void(0)" onclick="window.open('../../../help.html','Hilfe','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Hilfe</a></td></tr>
+</table>
+</div>
+<script language="javascript" type="text/javascript">/* <![CDATA[ */
+next_image=new Image(); next_image.src="IMG_0097.jpg";
+/* ]]> */</script>
+<script language="javascript" type="text/javascript">/* <![CDATA[ */
+previous_image=new Image(); previous_image.src="IMG_0095.jpg";
+/* ]]> */</script>
+<div id="jalbumwidgetcontainer"></div>
+<script type="text/javascript" charset="utf-8"><!--//--><![CDATA[//><!--
+_jaSkin = "Chameleon";
+_jaStyle = "Lack.css";
+_jaVersion = "10.10.8";
+_jaGeneratorType = "desktop";
+_jaLanguage = "de";
+_jaPageType = "slide";
+_jaRootPath = "../../..";
+_jaUserId = "931455";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+//--><!]]></script>
+
+</body>
+</html>

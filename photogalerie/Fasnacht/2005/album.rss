@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Fotos 2005</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+    	<jalbum:link rel="sub" href="Altersfasnacht/album.rss" />   	
+    	<jalbum:link rel="sub" href="Altzunftmeister-Ausflug/album.rss" />   	
+    	<jalbum:link rel="sub" href="Beggenrieder/album.rss" />   	
+    	<jalbum:link rel="sub" href="Bildumhaengen/album.rss" />   	
+    	<jalbum:link rel="sub" href="GV 2005/album.rss" />   	
+    	<jalbum:link rel="sub" href="Helferessen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Inthronisation/album.rss" />   	
+    	<jalbum:link rel="sub" href="Probe mit Tambouren/album.rss" />   	
+    	<jalbum:link rel="sub" href="Probe Birgerfaeger/album.rss" />   	
+    	<jalbum:link rel="sub" href="Spaghettiessen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Tannenstellen/album.rss" />   	
+    	<jalbum:link rel="sub" href="Uislumpete Buochs/album.rss" />   	
+    	<jalbum:link rel="sub" href="Umzug_2005/album.rss" />   	
+    	<jalbum:link rel="sub" href="Zunftratausflug/album.rss" />   	
+        
+    </channel>
+</rss>

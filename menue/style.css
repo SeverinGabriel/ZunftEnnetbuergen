@@ -1,0 +1,25 @@
+﻿/* Die allgemeinen Attribute der einzelnen Cols könnten bei bedarf verändert werden! */
+td 		{ 
+			font-family: Verdana;
+	 		font-size:11px;
+	 		text-align:left; 
+	 		height:11px; 		
+	 		cursor:hand; 
+		}
+	{ bgcolor="#FFD873"; }
+	
+	
+<!-- Tabelleneintrag für zusätzlichen Abstand (NICHT verändern!!!) -->		
+th { height:1px; width:150px}
+
+<!-- Abstand des Textes vom linken Rand der Tabelle (NICHT verändern!!!) -->
+.sub1 {	margin-left:2px;
+        margin-right:0px; }
+        
+.sub2 {	margin-left:2px;
+        margin-right:0px; }
+        
+.sub3 {	margin-left:12px;
+        margin-right:5px; }
+        
+.line { height:1; }

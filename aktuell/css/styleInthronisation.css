@@ -1,0 +1,96 @@
+*{font-family: Verdana, "Times New Roman"}
+p{
+margin-top:5px;}
+p, h1
+{
+	width:810px;
+	text-align: center;
+}
+#SatzAktuell
+{
+	font-size:28px;
+	font-weight:bold;
+	margin-bottom:5px;
+}
+#Einladung
+{
+	font-size:18px;
+}
+h2
+{
+	
+}
+body{width: 900px;}
+#Link
+{
+color: red;
+font-weight: bold;
+width: 800px;
+float:left;
+font-size:20px;
+text-align: right;
+}
+
+#Link img
+{
+  width: 200px;
+  margin-left:300px;
+}
+#ausverkauft
+{
+	margin-left:310px;
+	margin-top:30px;
+	color: red;
+	position:absolute;
+	font-size:26px;
+	font-weight: bold;
+	-moz-transform:rotate(-20deg); /* Firefox 3.6 Firefox 4 */
+-webkit-transform:rotate(-20deg); /* Safari */
+-o-transform:rotate(-20deg); /* Opera */
+-ms-transform:rotate(-20deg); /* IE9 */
+transform:rotate(-20deg); /* W3C */
+}
+#Content
+{
+margin-top:20px;
+float:left;
+display: block;
+}
+h1{margin-bottom:10px;}
+#center img
+{
+width:400px;
+}
+#center
+{
+position:absolute;
+width:400px;
+margin-left:205px;
+}
+#Bild
+{
+	float:left;
+	width:300px;
+}
+#Text{
+	margin-left:300px;
+	padding-left:15px;
+	font-size: 15.5px;
+	width: 570px;
+	height:200px;
+}
+#Bild img
+{
+	width:300px;
+}
+a:visited, a:link
+{
+ color: #A901DB;
+}
+
+
+#Links
+{
+position:absolute;
+margin-left:800px;
+}
